@@ -7,6 +7,12 @@ import fs from 'fs';
 // ═══════════════════════════════════════════════════════════════
 
 const BASE = process.env.KBO_BASE || 'http://localhost:5173/kbo-api';
+
+const KBO_HEADERS = {
+  'X-Requested-With': 'XMLHttpRequest',
+  'Referer': 'https://www.koreabaseball.com/',
+  'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36',
+};
 const TM = { '삼성':'samsung','KIA':'kia','LG':'lg','두산':'doosan','KT':'kt','SSG':'ssg','한화':'hanwha','롯데':'lotte','NC':'nc','키움':'kiwoom' };
 
 // ── KBO 리그 평균 (2025 시즌 기준 fallback) ──
@@ -34,8 +40,18 @@ function parseIP(ipStr) {
 
 // ── 크롤링 함수 (2026 현재 시즌) ──
 async function fetchPage(url) {
-  const r = await fetch(url);
-  return r.text();
+  // KBO_CACHE_DIR 지정 시 URL별 캐시 사용 (백테스트 반복 실행 시 중복 크롤링 방지)
+  const cacheDir = process.env.KBO_CACHE_DIR;
+  const cacheFile = cacheDir
+    ? `${cacheDir}/${url.replace(/[^a-zA-Z0-9.]/g, '_')}.html`
+    : null;
+  if (cacheFile && fs.existsSync(cacheFile)) {
+    return fs.readFileSync(cacheFile, 'utf8');
+  }
+  const r = await fetch(url, { headers: KBO_HEADERS });
+  const text = await r.text();
+  if (cacheFile) fs.writeFileSync(cacheFile, text);
+  return text;
 }
 
 function parseTable(html) {

@@ -9,6 +9,13 @@ import fs from 'fs';
 const BASE = process.env.KBO_BASE || 'http://localhost:5173/kbo-api';
 const OUT_FILE = 'schedule-today.json';
 
+// KBO 서버가 XHR 헤더 없는 요청에 JSON 대신 HTML을 반환함 (2026-05-20경부터)
+export const KBO_HEADERS = {
+  'X-Requested-With': 'XMLHttpRequest',
+  'Referer': 'https://www.koreabaseball.com/Schedule/Schedule.aspx',
+  'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36',
+};
+
 const NM = {
   '삼성':'samsung','삼성 라이온즈':'samsung','LIONS':'samsung',
   '기아':'kia','KIA':'kia','KIA 타이거즈':'kia','TIGERS':'kia',
@@ -39,7 +46,7 @@ async function fetchMonthSchedule(year, month) {
   const mm = String(month).padStart(2, '0');
   const r = await fetch(`${BASE}/ws/Schedule.asmx/GetScheduleList`, {
     method: 'POST',
-    headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
+    headers: { 'Content-Type': 'application/x-www-form-urlencoded', ...KBO_HEADERS },
     body: `leId=1&srIdList=0%2C9%2C6&seasonId=${year}&gameMonth=${mm}&teamId=`,
   });
   if (!r.ok) throw new Error(`Schedule API ${r.status}`);
@@ -74,7 +81,7 @@ async function fetchStartingPitchers(dateStr) {
   try {
     const r = await fetch(`${BASE}/ws/Main.asmx/GetKboGameList`, {
       method: 'POST',
-      headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
+      headers: { 'Content-Type': 'application/x-www-form-urlencoded', ...KBO_HEADERS },
       body: `leId=1&srId=0,1,3,4,5,6,7,8,9&date=${dt}`,
     });
     if (!r.ok) return {};
@@ -107,9 +114,15 @@ async function main() {
     monthGames = await fetchMonthSchedule(parseInt(y), parseInt(mo));
   } catch (e) {
     console.error('❌ 일정 크롤링 실패:', e.message);
+    // 캐시가 오늘 날짜일 때만 fallback 허용. 과거 날짜 캐시로 조용히 넘어가면
+    // 파이프라인이 매일 같은 날을 재예측하는 침묵 실패가 됨 (2026-05-19~07-25 장애 원인)
     if (fs.existsSync(OUT_FILE)) {
-      console.log(`⚠️  기존 캐시(${OUT_FILE}) 유지`);
-      return;
+      const cached = JSON.parse(fs.readFileSync(OUT_FILE, 'utf8'));
+      if (cached.date === target) {
+        console.log(`⚠️  기존 캐시(${OUT_FILE}, ${cached.date}) 유지`);
+        return;
+      }
+      console.error(`❌ 캐시 날짜(${cached.date})가 대상(${target})과 다름 — 실패 처리`);
     }
     process.exit(1);
   }

@@ -46,7 +46,7 @@ class Sim {
   pW(p){const w=p.wpaLI||0;return w<=0?1:1+Math.min(.04,w*.008);}
   dF(isH){return 1-_.clamp((isH?this.hDef:this.aDef)*.001,-.03,.05);}
   prob(b,p,isH,ftg=0){
-    const pf=this.st.parkFactor,wH=this.st.dome?1+(this.w.hitMod-1)*.2:this.w.hitMod,wR=this.st.dome?1+(this.w.hrMod-1)*.2:this.w.hrMod,hA=isH?1.025:1;
+    const pf=this.st.parkFactor,wH=this.st.dome?1+(this.w.hitMod-1)*.2:this.w.hitMod,wR=this.st.dome?1+(this.w.hrMod-1)*.2:this.w.hrMod,hA=isH?HOME_ADV:1;
     const bF=_.clamp(b.recentForm||1,0.92,1.08),pl=this.plt(b,p),wb=this.wB(b),pw=this.pW(p);
     const dm=DAY_OF_WEEK_MOD[isH?"home":"away"][this.dayIdx],tH=this.timeMod.hitMod,tR=this.timeMod.hrMod;
     const oF=isH?this.oddsMod.home:this.oddsMod.away,h2=isH?this.h2hMod.home:this.h2hMod.away;
@@ -216,6 +216,12 @@ let TEMPERATURE = 0.7;
 const tIdx = argv.indexOf('--temp');
 if (tIdx >= 0 && argv[tIdx + 1]) TEMPERATURE = parseFloat(argv[tIdx + 1]);
 
+// v9.7: 홈 어드밴티지 배수 (타격 확률 보정. 2026 실측 홈승률 51.3% 대비
+// 기존 1.025는 홈픽 73%/평균 홈승률 56.4%로 과대 → 축소 조정 가능)
+let HOME_ADV = 1.025;
+const haIdx = argv.indexOf('--home-adv');
+if (haIdx >= 0 && argv[haIdx + 1]) HOME_ADV = parseFloat(argv[haIdx + 1]);
+
 // v9.5: 신뢰도 임계값
 let THRESH_2 = 55, THRESH_3 = 65;
 const thIdx = argv.indexOf('--threshold');
@@ -225,7 +231,7 @@ if (thIdx >= 0 && argv[thIdx + 1]) {
 }
 
 // 옵션 인자값(--version v9.2-mom 등)은 positional에서 제외
-const flagsWithValue = new Set(['--version', '--temp', '--threshold']);
+const flagsWithValue = new Set(['--version', '--temp', '--threshold', '--home-adv']);
 const positional = argv.filter((a, i) => !a.startsWith('--') && !flagsWithValue.has(argv[i-1]));
 
 // ── 일정/선발 자동 로드 (schedule-today.json) ──

@@ -7,6 +7,12 @@ import fs from 'fs';
 // ═══════════════════════════════════════════════════════════════
 
 const BASE = process.env.KBO_BASE || 'http://localhost:5173/kbo-api';
+
+const KBO_HEADERS = {
+  'X-Requested-With': 'XMLHttpRequest',
+  'Referer': 'https://www.koreabaseball.com/',
+  'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36',
+};
 const SNAP_DIR = 'team-stats-snapshots';
 
 const NM = {
@@ -18,7 +24,7 @@ async function fetchMonthSchedule(year, month) {
   const mm = String(month).padStart(2, '0');
   const r = await fetch(`${BASE}/ws/Schedule.asmx/GetScheduleList`, {
     method: 'POST',
-    headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
+    headers: { 'Content-Type': 'application/x-www-form-urlencoded', ...KBO_HEADERS },
     body: `leId=1&srIdList=0%2C9%2C6&seasonId=${year}&gameMonth=${mm}&teamId=`,
   });
   if (!r.ok) throw new Error(`Schedule API ${r.status}`);

@@ -6,6 +6,12 @@ import fs from 'fs';
 // ═══════════════════════════════════════════════════════════════
 
 const BASE = process.env.KBO_BASE || 'http://localhost:5173/kbo-api';
+
+const KBO_HEADERS = {
+  'X-Requested-With': 'XMLHttpRequest',
+  'Referer': 'https://www.koreabaseball.com/',
+  'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36',
+};
 const CACHE_FILE = 'recent-stats.json';
 
 // ── 캐시 확인 ──
@@ -75,7 +81,7 @@ async function fetchPlayerIds(type) {
       ? `${BASE}${path}`
       : `${BASE}${path}?hfPage=${page}`;
     try {
-      const r = await fetch(url);
+      const r = await fetch(url, { headers: KBO_HEADERS });
       const html = await r.text();
       const re = new RegExp(`${detailPath}/Basic\\.aspx\\?playerId=(\\d+)[^>]*>([^<]+)`, 'g');
       let m;
@@ -98,7 +104,7 @@ async function fetchRecent10(playerId, type) {
     ? `/Record/Player/HitterDetail/Basic.aspx?playerId=${playerId}`
     : `/Record/Player/PitcherDetail/Basic.aspx?playerId=${playerId}`;
 
-  const r = await fetch(`${BASE}${path}`);
+  const r = await fetch(`${BASE}${path}`, { headers: KBO_HEADERS });
   const html = await r.text();
 
   const idx = html.indexOf('최근 10경기');

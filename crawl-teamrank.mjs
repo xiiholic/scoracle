@@ -8,6 +8,12 @@ import fs from 'fs';
 
 // 로컬: Vite proxy / CI(Actions): KBO 공식 URL 직접
 const BASE = process.env.KBO_BASE || 'http://localhost:5173/kbo-api';
+
+const KBO_HEADERS = {
+  'X-Requested-With': 'XMLHttpRequest',
+  'Referer': 'https://www.koreabaseball.com/',
+  'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36',
+};
 const OUT_FILE = 'team-stats.json';
 const SNAP_DIR = 'team-stats-snapshots';
 
@@ -22,7 +28,7 @@ const NM = {
 };
 
 async function fetchPage(url) {
-  const r = await fetch(url);
+  const r = await fetch(url, { headers: KBO_HEADERS });
   if (!r.ok) throw new Error(`HTTP ${r.status} ${url}`);
   return r.text();
 }
