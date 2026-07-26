@@ -133230,7 +133230,7 @@
     },
     {
       "date": "2026-07-26",
-      "predictedAt": "2026-07-25T16:08:11.351Z",
+      "predictedAt": "2026-07-26T09:06:24.012Z",
       "version": "v9.6",
       "games": [
         {
@@ -133241,10 +133241,10 @@
           "awaySP": "보스",
           "homeSP": "곽빈",
           "predWinner": "두산",
-          "predHomePct": 50.3,
-          "predAwayPct": 47.3,
+          "predHomePct": 51.1,
+          "predAwayPct": 46.4,
           "avgHome": 4.1,
-          "avgAway": 4.1,
+          "avgAway": 3.9,
           "confidence": "★",
           "factors": {
             "homeRating": 41,
@@ -133312,11 +133312,11 @@
           "awaySP": "사우어",
           "homeSP": "비슬리",
           "predWinner": "롯데",
-          "predHomePct": 56,
-          "predAwayPct": 42.8,
-          "avgHome": 6,
-          "avgAway": 5.2,
-          "confidence": "★★",
+          "predHomePct": 51.6,
+          "predAwayPct": 46.9,
+          "avgHome": 5.9,
+          "avgAway": 5.5,
+          "confidence": "★",
           "factors": {
             "homeRating": 40,
             "awayRating": 59,
@@ -133369,7 +133369,7 @@
                 "desc": "사우어(ERA 3.81) vs 비슬리(3.85)"
               }
             ],
-            "narrative": "사직야구장 홈 구장 효과가 롯데에게 유리."
+            "narrative": "사직야구장 홈 구장 효과가 롯데에게 유리. 박빙으로 이변 가능."
           },
           "actualHome": null,
           "actualAway": null,
@@ -133383,10 +133383,10 @@
           "awaySP": "라일리",
           "homeSP": "타케다",
           "predWinner": "SSG",
-          "predHomePct": 62.2,
-          "predAwayPct": 35.6,
-          "avgHome": 4.7,
-          "avgAway": 2.9,
+          "predHomePct": 59.9,
+          "predAwayPct": 37.4,
+          "avgHome": 4.6,
+          "avgAway": 3.3,
           "confidence": "★★",
           "factors": {
             "homeRating": 42,
@@ -133454,9 +133454,9 @@
           "awaySP": "김윤하",
           "homeSP": "황동하",
           "predWinner": "KIA",
-          "predHomePct": 67,
-          "predAwayPct": 32.2,
-          "avgHome": 6.3,
+          "predHomePct": 69.6,
+          "predAwayPct": 29.4,
+          "avgHome": 6.8,
           "avgAway": 3.6,
           "confidence": "★★★",
           "factors": {
@@ -133525,11 +133525,11 @@
           "awaySP": "박시원",
           "homeSP": "짐머맨",
           "predWinner": "한화",
-          "predHomePct": 54.3,
-          "predAwayPct": 43.6,
-          "avgHome": 5.1,
-          "avgAway": 4.4,
-          "confidence": "★",
+          "predHomePct": 57.3,
+          "predAwayPct": 41.3,
+          "avgHome": 5.5,
+          "avgAway": 4.5,
+          "confidence": "★★",
           "factors": {
             "homeRating": 44,
             "awayRating": 48,
@@ -133582,7 +133582,7 @@
                 "desc": "대전한화생명볼파크 중립(1.02)"
               }
             ],
-            "narrative": "대전한화생명볼파크 홈 구장 효과가 한화에게 유리. 박빙으로 이변 가능."
+            "narrative": "대전한화생명볼파크 홈 구장 효과가 한화에게 유리."
           },
           "actualHome": null,
           "actualAway": null,
