@@ -4,8 +4,9 @@ on:
   schedule:
     # 한국시간 매일 오전 9시 (UTC 0시) — 어제 결과 검증
     - cron: '0 0 * * *'
-    # 한국시간 매일 오후 5시 (UTC 8시) — 오늘 경기 예측 (대부분 18:30 시작)
-    - cron: '0 8 * * *'
+    # 한국시간 매일 오후 3시 (UTC 6시) — 오늘 경기 예측 (대부분 18:30 시작)
+    # Actions 스케줄 지연을 감안해 경기 시작 3시간 30분 전으로 여유 확보
+    - cron: '0 6 * * *'
   workflow_dispatch:
     inputs:
       mode:
@@ -45,16 +46,14 @@ jobs:
       - name: Detect mode
         id: mode
         run: |
-          # workflow_dispatch면 입력값 사용, 스케줄이면 시각 기반
+          # workflow_dispatch면 입력값 사용, 스케줄이면 트리거한 cron 식으로 판별
+          # (실행 시각 기반은 Actions 스케줄 지연 시 verify가 predict로 새는 문제가 있음)
           if [ -n "${{ inputs.mode }}" ]; then
             echo "mode=${{ inputs.mode }}" >> $GITHUB_OUTPUT
+          elif [ "${{ github.event.schedule }}" = "0 0 * * *" ]; then
+            echo "mode=verify" >> $GITHUB_OUTPUT
           else
-            HOUR=$(date -u +%H)
-            if [ "$HOUR" = "00" ]; then
-              echo "mode=verify" >> $GITHUB_OUTPUT
-            else
-              echo "mode=predict" >> $GITHUB_OUTPUT
-            fi
+            echo "mode=predict" >> $GITHUB_OUTPUT
           fi
 
       # ─────────── 검증 (어제 결과) ───────────
