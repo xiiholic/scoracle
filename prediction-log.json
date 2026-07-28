@@ -133592,7 +133592,7 @@
     },
     {
       "date": "2026-07-28",
-      "predictedAt": "2026-07-28T01:44:33.206Z",
+      "predictedAt": "2026-07-28T10:40:26.411Z",
       "version": "v9.6",
       "games": [
         {
@@ -133603,10 +133603,10 @@
           "awaySP": "전준표",
           "homeSP": "톨허스트",
           "predWinner": "LG",
-          "predHomePct": 58.3,
-          "predAwayPct": 39.1,
-          "avgHome": 5.3,
-          "avgAway": 4,
+          "predHomePct": 61.6,
+          "predAwayPct": 37.1,
+          "avgHome": 5.6,
+          "avgAway": 3.8,
           "confidence": "★★",
           "factors": {
             "homeRating": 47,
@@ -133674,10 +133674,10 @@
           "awaySP": "올러",
           "homeSP": "최원태",
           "predWinner": "KIA",
-          "predHomePct": 34.7,
-          "predAwayPct": 63.9,
-          "avgHome": 3.7,
-          "avgAway": 6.5,
+          "predHomePct": 34.8,
+          "predAwayPct": 64.7,
+          "avgHome": 3.9,
+          "avgAway": 6.7,
           "confidence": "★★",
           "factors": {
             "homeRating": 56,
@@ -133745,11 +133745,11 @@
           "awaySP": "벤자민",
           "homeSP": "아빌라",
           "predWinner": "SSG",
-          "predHomePct": 53.7,
-          "predAwayPct": 43.9,
-          "avgHome": 4,
-          "avgAway": 3.5,
-          "confidence": "★",
+          "predHomePct": 55,
+          "predAwayPct": 42.8,
+          "avgHome": 4.2,
+          "avgAway": 3.6,
+          "confidence": "★★",
           "factors": {
             "homeRating": 43,
             "awayRating": 43,
@@ -133802,7 +133802,7 @@
                 "desc": "SSG ? / 두산 ?"
               }
             ],
-            "narrative": "SSG의 상대전적 우위 (SSG 홈 승률 60%). 박빙으로 이변 가능."
+            "narrative": "SSG의 상대전적 우위 (SSG 홈 승률 60%)."
           },
           "actualHome": null,
           "actualAway": null,
@@ -133816,10 +133816,10 @@
           "awaySP": "고영표",
           "homeSP": "원종해",
           "predWinner": "KT",
-          "predHomePct": 37.7,
-          "predAwayPct": 59.8,
-          "avgHome": 3.5,
-          "avgAway": 5.4,
+          "predHomePct": 39.4,
+          "predAwayPct": 59,
+          "avgHome": 3.3,
+          "avgAway": 5.2,
           "confidence": "★★",
           "factors": {
             "homeRating": 40,
@@ -133887,8 +133887,8 @@
           "awaySP": "박세웅",
           "homeSP": "화이트",
           "predWinner": "한화",
-          "predHomePct": 59.5,
-          "predAwayPct": 38.9,
+          "predHomePct": 58.1,
+          "predAwayPct": 40.1,
           "avgHome": 6.1,
           "avgAway": 4.8,
           "confidence": "★★",
