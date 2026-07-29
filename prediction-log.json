@@ -133662,9 +133662,9 @@
             ],
             "narrative": "LG의 상대전적 우위 (LG 홈 승률 71%)."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 5,
+          "actualAway": 3,
+          "hit": true
         },
         {
           "away": "KIA",
@@ -133733,9 +133733,9 @@
             ],
             "narrative": "올러(ERA 3.24) vs 최원태(3.82), 선발 대결에서 KIA 우위."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 12,
+          "actualAway": 5,
+          "hit": false
         },
         {
           "away": "두산",
@@ -133804,9 +133804,9 @@
             ],
             "narrative": "SSG의 상대전적 우위 (SSG 홈 승률 60%)."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 1,
+          "actualAway": 2,
+          "hit": false
         },
         {
           "away": "KT",
@@ -133875,9 +133875,9 @@
             ],
             "narrative": "KT의 종합 전력 우세 (NC 42승47패 vs KT 53승36패)."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 0,
+          "actualAway": 10,
+          "hit": true
         },
         {
           "away": "롯데",
@@ -133946,9 +133946,9 @@
             ],
             "narrative": "화이트(ERA 4.06) vs 박세웅(4.93), 선발 대결에서 한화 우위. 상대전적도 유리."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 3,
+          "actualAway": 9,
+          "hit": false
         }
       ]
     }
