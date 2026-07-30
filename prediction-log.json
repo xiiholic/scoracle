@@ -134024,9 +134024,9 @@
             ],
             "narrative": "웰스(ERA 3.77) vs 하영민(4.94), 선발 대결에서 LG 우위. 상대전적도 유리."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 11,
+          "actualAway": 18,
+          "hit": false
         },
         {
           "away": "KIA",
@@ -134095,9 +134095,9 @@
             ],
             "narrative": "시라카와(ERA 3.75) vs 양창섭(3.91), 선발 대결에서 KIA 우위."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 4,
+          "actualAway": 9,
+          "hit": true
         },
         {
           "away": "두산",
@@ -134166,9 +134166,9 @@
             ],
             "narrative": "김민준(ERA 3.8) vs 최승용(4.36), 선발 대결에서 SSG 우위."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 6,
+          "actualAway": 2,
+          "hit": true
         },
         {
           "away": "KT",
@@ -134237,9 +134237,9 @@
             ],
             "narrative": "KT의 종합 전력 우세 (NC 42승48패 vs KT 54승36패)."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 3,
+          "actualAway": 10,
+          "hit": true
         },
         {
           "away": "롯데",
@@ -134308,9 +134308,9 @@
             ],
             "narrative": "한화의 상대전적 우위 (한화 홈 승률 63%). 박빙으로 이변 가능."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 5,
+          "actualAway": 3,
+          "hit": true
         }
       ]
     }
