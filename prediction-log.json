@@ -134386,9 +134386,9 @@
             ],
             "narrative": "LG의 상대전적 우위 (LG 홈 승률 71%)."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 5,
+          "actualAway": 3,
+          "hit": true
         },
         {
           "away": "KIA",
@@ -134457,9 +134457,9 @@
             ],
             "narrative": "네일(ERA 3.66) vs 페덱(3.81), 선발 대결에서 KIA 우위."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 3,
+          "actualAway": 12,
+          "hit": true
         },
         {
           "away": "두산",
@@ -134528,9 +134528,9 @@
             ],
             "narrative": "SSG의 상대전적 우위 (SSG 홈 승률 60%). 박빙으로 이변 가능."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 3,
+          "actualAway": 5,
+          "hit": false
         },
         {
           "away": "KT",
@@ -134599,9 +134599,9 @@
             ],
             "narrative": "KT의 종합 전력 우세 (NC 42승49패 vs KT 55승36패). 높은 확률 예측."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 2,
+          "actualAway": 10,
+          "hit": true
         },
         {
           "away": "롯데",
@@ -134670,9 +134670,9 @@
             ],
             "narrative": "한화의 상대전적 우위 (한화 홈 승률 63%)."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 3,
+          "actualAway": 2,
+          "hit": true
         }
       ]
     }
