@@ -135110,9 +135110,9 @@
             ],
             "narrative": "LG의 상대전적 우위 (두산 홈 승률 41%)."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 2,
+          "actualAway": 2,
+          "hit": false
         },
         {
           "away": "삼성",
@@ -135252,9 +135252,9 @@
             ],
             "narrative": "KT의 종합 전력 우세 (KT 57승36패 vs 한화 46승47패). 박빙으로 이변 가능."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 7,
+          "actualAway": 4,
+          "hit": true
         },
         {
           "away": "KIA",
@@ -135394,9 +135394,9 @@
             ],
             "narrative": "김윤하(ERA 3.91) vs 타케다(4.04), 선발 대결에서 키움 우위. 박빙으로 이변 가능."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 2,
+          "actualAway": 10,
+          "hit": false
         }
       ]
     }
