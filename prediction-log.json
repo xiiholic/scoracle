@@ -135472,9 +135472,9 @@
             ],
             "narrative": "키움은 개별 지표에서 열세이나 홈 어드밴티지 + 구장 효과로 우세."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 5,
+          "actualAway": 3,
+          "hit": true
         },
         {
           "away": "LG",
@@ -135543,9 +135543,9 @@
             ],
             "narrative": "LG의 상대전적 우위 (두산 홈 승률 41%). 박빙으로 이변 가능."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 8,
+          "actualAway": 3,
+          "hit": false
         },
         {
           "away": "삼성",
@@ -135614,9 +135614,9 @@
             ],
             "narrative": "사직야구장 홈 구장 효과가 롯데에게 유리. 박빙으로 이변 가능."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 10,
+          "actualAway": 7,
+          "hit": true
         },
         {
           "away": "한화",
@@ -135685,9 +135685,9 @@
             ],
             "narrative": "고영표(ERA 3.33) vs 화이트(4.06), 선발 대결에서 KT 우위. 팀 전력에서도 앞섬."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 12,
+          "actualAway": 1,
+          "hit": true
         },
         {
           "away": "KIA",
