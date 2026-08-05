@@ -135905,9 +135905,9 @@
             ],
             "narrative": "삼성의 종합 전력 우세 (삼성 59승38패 vs 한화 46승49패). 박빙으로 이변 가능."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 1,
+          "actualAway": 4,
+          "hit": false
         },
         {
           "away": "키움",
@@ -135976,9 +135976,9 @@
             ],
             "narrative": "로드리게스(ERA 3.81) vs 하영민(4.94), 선발 대결에서 롯데 우위."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 3,
+          "actualAway": 2,
+          "hit": true
         },
         {
           "away": "LG",
@@ -136047,9 +136047,9 @@
             ],
             "narrative": "LG의 종합 전력 우세 (SSG 38승60패 vs LG 55승44패). 박빙으로 이변 가능."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 10,
+          "actualAway": 8,
+          "hit": false
         },
         {
           "away": "KT",
