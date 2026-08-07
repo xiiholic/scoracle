@@ -1,11 +1,11 @@
 {
-  "date": "2026-08-06",
+  "date": "2026-08-07",
   "games": [
     {
-      "home": "두산",
-      "away": "NC",
-      "homeId": "doosan",
-      "awayId": "nc",
+      "home": "LG",
+      "away": "KIA",
+      "homeId": "lg",
+      "awayId": "kia",
       "stadium": "잠실",
       "time": "18:30",
       "homeSP": "",
@@ -13,40 +13,40 @@
     },
     {
       "home": "삼성",
-      "away": "한화",
+      "away": "두산",
       "homeId": "samsung",
-      "awayId": "hanwha",
+      "awayId": "doosan",
       "stadium": "대구",
       "time": "18:30",
       "homeSP": "",
       "awaySP": ""
     },
     {
-      "home": "롯데",
+      "home": "KT",
+      "away": "롯데",
+      "homeId": "kt",
+      "awayId": "lotte",
+      "stadium": "수원",
+      "time": "18:30",
+      "homeSP": "",
+      "awaySP": ""
+    },
+    {
+      "home": "NC",
+      "away": "SSG",
+      "homeId": "nc",
+      "awayId": "ssg",
+      "stadium": "창원",
+      "time": "18:30",
+      "homeSP": "",
+      "awaySP": ""
+    },
+    {
+      "home": "한화",
       "away": "키움",
-      "homeId": "lotte",
+      "homeId": "hanwha",
       "awayId": "kiwoom",
-      "stadium": "부산",
-      "time": "18:30",
-      "homeSP": "",
-      "awaySP": ""
-    },
-    {
-      "home": "SSG",
-      "away": "LG",
-      "homeId": "ssg",
-      "awayId": "lg",
-      "stadium": "문학",
-      "time": "18:30",
-      "homeSP": "",
-      "awaySP": ""
-    },
-    {
-      "home": "KIA",
-      "away": "KT",
-      "homeId": "kia",
-      "awayId": "kt",
-      "stadium": "광주",
+      "stadium": "대전",
       "time": "18:30",
       "homeSP": "",
       "awaySP": ""
