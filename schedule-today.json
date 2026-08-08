@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-07",
+  "date": "2026-08-08",
   "games": [
     {
       "home": "LG",
@@ -7,7 +7,7 @@
       "homeId": "lg",
       "awayId": "kia",
       "stadium": "잠실",
-      "time": "18:30",
+      "time": "18:00",
       "homeSP": "",
       "awaySP": ""
     },
@@ -17,7 +17,7 @@
       "homeId": "samsung",
       "awayId": "doosan",
       "stadium": "대구",
-      "time": "18:30",
+      "time": "18:00",
       "homeSP": "",
       "awaySP": ""
     },
@@ -27,7 +27,7 @@
       "homeId": "kt",
       "awayId": "lotte",
       "stadium": "수원",
-      "time": "18:30",
+      "time": "18:00",
       "homeSP": "",
       "awaySP": ""
     },
@@ -37,7 +37,7 @@
       "homeId": "nc",
       "awayId": "ssg",
       "stadium": "창원",
-      "time": "18:30",
+      "time": "18:00",
       "homeSP": "",
       "awaySP": ""
     },
@@ -47,7 +47,7 @@
       "homeId": "hanwha",
       "awayId": "kiwoom",
       "stadium": "대전",
-      "time": "18:30",
+      "time": "18:00",
       "homeSP": "",
       "awaySP": ""
     }
