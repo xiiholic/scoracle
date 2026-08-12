@@ -138006,9 +138006,9 @@
             ],
             "narrative": "한화의 상대전적 우위 (두산 홈 승률 44%). 박빙으로 이변 가능."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 6,
+          "actualAway": 3,
+          "hit": false
         },
         {
           "away": "롯데",
@@ -138077,9 +138077,9 @@
             ],
             "narrative": "SSG의 상대전적 우위 (SSG 홈 승률 59%). 박빙으로 이변 가능."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 8,
+          "actualAway": 4,
+          "hit": true
         },
         {
           "away": "삼성",
@@ -138148,9 +138148,9 @@
             ],
             "narrative": "올러(ERA 3.24) vs 페덱(3.81), 선발 대결에서 KIA 우위."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 3,
+          "actualAway": 1,
+          "hit": true
         },
         {
           "away": "KT",
@@ -138219,9 +138219,9 @@
             ],
             "narrative": "KT의 종합 전력 우세 (NC 43승50패 vs KT 59승36패)."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 3,
+          "actualAway": 7,
+          "hit": true
         },
         {
           "away": "LG",
@@ -138290,9 +138290,9 @@
             ],
             "narrative": "LG의 상대전적 우위 (키움 홈 승률 29%)."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 3,
+          "actualAway": 8,
+          "hit": true
         }
       ]
     }
