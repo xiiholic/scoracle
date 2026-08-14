@@ -138730,9 +138730,9 @@
             ],
             "narrative": "최민석(ERA 3.3) vs 류현진(3.67), 선발 대결에서 두산 우위."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 9,
+          "actualAway": 6,
+          "hit": true
         },
         {
           "away": "롯데",
@@ -138801,9 +138801,9 @@
             ],
             "narrative": "로드리게스(ERA 3.8) vs 타케다(4.04), 선발 대결에서 롯데 우위. 박빙으로 이변 가능."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 0,
+          "actualAway": 11,
+          "hit": true
         },
         {
           "away": "삼성",
@@ -138872,9 +138872,9 @@
             ],
             "narrative": "광주기아챔피언스필드 홈 구장 효과가 KIA에게 유리."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 8,
+          "actualAway": 9,
+          "hit": false
         },
         {
           "away": "KT",
@@ -138943,9 +138943,9 @@
             ],
             "narrative": "KT의 종합 전력 우세 (NC 44승51패 vs KT 60승37패)."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 6,
+          "actualAway": 5,
+          "hit": false
         },
         {
           "away": "LG",
@@ -139014,9 +139014,9 @@
             ],
             "narrative": "알칸타라(ERA 3.54) vs 톨허스트(4.63), 선발 대결에서 키움 우위. 박빙으로 이변 가능."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 6,
+          "actualAway": 13,
+          "hit": false
         }
       ]
     }
