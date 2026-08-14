@@ -1,55 +1,55 @@
 {
-  "date": "2026-08-13",
+  "date": "2026-08-14",
   "games": [
     {
-      "home": "두산",
-      "away": "한화",
-      "homeId": "doosan",
-      "awayId": "hanwha",
+      "home": "LG",
+      "away": "SSG",
+      "homeId": "lg",
+      "awayId": "ssg",
       "stadium": "잠실",
       "time": "19:00",
-      "homeSP": "최민석",
-      "awaySP": "류현진"
+      "homeSP": "송승기",
+      "awaySP": "최민준"
     },
     {
-      "home": "SSG",
-      "away": "롯데",
-      "homeId": "ssg",
-      "awayId": "lotte",
-      "stadium": "문학",
+      "home": "삼성",
+      "away": "한화",
+      "homeId": "samsung",
+      "awayId": "hanwha",
+      "stadium": "대구",
       "time": "19:00",
-      "homeSP": "타케다",
-      "awaySP": "로드리게스"
+      "homeSP": "최원태",
+      "awaySP": "짐머맨"
+    },
+    {
+      "home": "롯데",
+      "away": "NC",
+      "homeId": "lotte",
+      "awayId": "nc",
+      "stadium": "부산",
+      "time": "19:00",
+      "homeSP": "김진욱",
+      "awaySP": "토다"
     },
     {
       "home": "KIA",
-      "away": "삼성",
+      "away": "두산",
       "homeId": "kia",
-      "awayId": "samsung",
+      "awayId": "doosan",
       "stadium": "광주",
       "time": "19:00",
-      "homeSP": "시라카와",
-      "awaySP": "원태인"
+      "homeSP": "황동하",
+      "awaySP": "잭로그"
     },
     {
-      "home": "NC",
-      "away": "KT",
-      "homeId": "nc",
-      "awayId": "kt",
-      "stadium": "창원",
+      "home": "KT",
+      "away": "키움",
+      "homeId": "kt",
+      "awayId": "kiwoom",
+      "stadium": "수원",
       "time": "19:00",
-      "homeSP": "테일러",
-      "awaySP": "대니엘"
-    },
-    {
-      "home": "키움",
-      "away": "LG",
-      "homeId": "kiwoom",
-      "awayId": "lg",
-      "stadium": "고척",
-      "time": "19:00",
-      "homeSP": "알칸타라",
-      "awaySP": "톨허스트"
+      "homeSP": "고영표",
+      "awaySP": "박준현"
     }
   ]
 }
