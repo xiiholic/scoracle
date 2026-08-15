@@ -139092,9 +139092,9 @@
             ],
             "narrative": "송승기(ERA 3.58) vs 최민준(4.19), 선발 대결에서 LG 우위."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 3,
+          "actualAway": 5,
+          "hit": false
         },
         {
           "away": "한화",
@@ -139163,9 +139163,9 @@
             ],
             "narrative": "한화의 상대전적 우위 (삼성 홈 승률 46%). 박빙으로 이변 가능."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 8,
+          "actualAway": 5,
+          "hit": false
         },
         {
           "away": "NC",
@@ -139234,9 +139234,9 @@
             ],
             "narrative": "김진욱(ERA 3.47) vs 토다(4.5), 선발 대결에서 롯데 우위."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 8,
+          "actualAway": 9,
+          "hit": false
         },
         {
           "away": "두산",
@@ -139305,9 +139305,9 @@
             ],
             "narrative": "KIA의 종합 전력 우세 (기아 54승47패 vs 두산 54승46패)."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 4,
+          "actualAway": 10,
+          "hit": false
         },
         {
           "away": "키움",
@@ -139376,9 +139376,9 @@
             ],
             "narrative": "KT의 종합 전력 우세 (KT 60승38패 vs 키움 39승66패). 상대전적도 유리."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 8,
+          "actualAway": 3,
+          "hit": true
         }
       ]
     }
