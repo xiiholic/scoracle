@@ -139454,9 +139454,9 @@
             ],
             "narrative": "LG의 종합 전력 우세 (LG 57승47패 vs SSG 42승61패)."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 4,
+          "actualAway": 1,
+          "hit": true
         },
         {
           "away": "한화",
@@ -139525,9 +139525,9 @@
             ],
             "narrative": "삼성의 종합 전력 우세 (삼성 61승41패 vs 한화 48승52패). 박빙으로 이변 가능."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 11,
+          "actualAway": 6,
+          "hit": true
         },
         {
           "away": "NC",
@@ -139596,9 +139596,9 @@
             ],
             "narrative": "사직야구장 홈 구장 효과가 롯데에게 유리. 다만 NC 선발투수가 우위."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 8,
+          "actualAway": 5,
+          "hit": true
         },
         {
           "away": "두산",
@@ -139667,9 +139667,9 @@
             ],
             "narrative": "KIA의 상대전적 우위 (기아 홈 승률 53%)."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 6,
+          "actualAway": 1,
+          "hit": true
         },
         {
           "away": "키움",
@@ -139738,9 +139738,9 @@
             ],
             "narrative": "오원석(ERA 3.63) vs 하영민(4.94), 선발 대결에서 KT 우위. 팀 전력에서도 앞섬. 높은 확률 예측."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 5,
+          "actualAway": 10,
+          "hit": false
         }
       ]
     }
