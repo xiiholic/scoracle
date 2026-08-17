@@ -139816,9 +139816,9 @@
             ],
             "narrative": "LG의 종합 전력 우세 (LG 58승47패 vs SSG 42승62패)."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 0,
+          "actualAway": 6,
+          "hit": false
         },
         {
           "away": "한화",
@@ -140029,9 +140029,9 @@
             ],
             "narrative": "올러(ERA 3.24) vs 곽빈(3.93), 선발 대결에서 KIA 우위. 높은 확률 예측."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 2,
+          "actualAway": 1,
+          "hit": true
         },
         {
           "away": "키움",
@@ -140100,9 +140100,9 @@
             ],
             "narrative": "KT의 종합 전력 우세 (KT 61승39패 vs 키움 40승67패). 상대전적도 유리. 높은 확률 예측."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 6,
+          "actualAway": 2,
+          "hit": true
         }
       ]
     }
