@@ -140902,9 +140902,9 @@
             ],
             "narrative": "LG의 상대전적 우위 (LG 홈 승률 56%). 박빙으로 이변 가능."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 4,
+          "actualAway": 16,
+          "hit": false
         },
         {
           "away": "SSG",
@@ -140973,9 +140973,9 @@
             ],
             "narrative": "삼성의 종합 전력 우세 (삼성 63승42패 vs SSG 44승63패). 박빙으로 이변 가능."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 4,
+          "actualAway": 6,
+          "hit": false
         },
         {
           "away": "키움",
@@ -141044,9 +141044,9 @@
             ],
             "narrative": "롯데의 상대전적 우위 (롯데 홈 승률 59%). 박빙으로 이변 가능."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 7,
+          "actualAway": 1,
+          "hit": true
         },
         {
           "away": "두산",
@@ -141115,9 +141115,9 @@
             ],
             "narrative": "잭로그(ERA 2.81) vs 구창모(3.8), 선발 대결에서 두산 우위."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 5,
+          "actualAway": 4,
+          "hit": false
         },
         {
           "away": "KIA",
@@ -141186,9 +141186,9 @@
             ],
             "narrative": "KIA의 종합 전력 우세 (한화 48승55패 vs 기아 58승48패)."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 6,
+          "actualAway": 10,
+          "hit": true
         }
       ]
     }
