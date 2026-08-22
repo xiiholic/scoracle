@@ -141264,9 +141264,9 @@
             ],
             "narrative": "두산의 상대전적 우위 (두산 홈 승률 53%). 박빙으로 이변 가능."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 4,
+          "actualAway": 11,
+          "hit": false
         },
         {
           "away": "KT",
@@ -141335,9 +141335,9 @@
             ],
             "narrative": "인천SSG랜더스필드 홈 구장 효과가 SSG에게 유리. 박빙으로 이변 가능."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 3,
+          "actualAway": 3,
+          "hit": false
         },
         {
           "away": "삼성",
@@ -141406,9 +141406,9 @@
             ],
             "narrative": "원태인(ERA 3.24) vs 토다(4.45), 선발 대결에서 삼성 우위."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 3,
+          "actualAway": 2,
+          "hit": false
         },
         {
           "away": "LG",
@@ -141477,9 +141477,9 @@
             ],
             "narrative": "대전한화생명볼파크 홈 구장 효과가 한화에게 유리. 박빙으로 이변 가능."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 15,
+          "actualAway": 11,
+          "hit": true
         },
         {
           "away": "KIA",
@@ -141548,9 +141548,9 @@
             ],
             "narrative": "KIA의 상대전적 우위 (키움 홈 승률 35%). 팀 전력에서도 앞섬. 박빙으로 이변 가능."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 1,
+          "actualAway": 11,
+          "hit": true
         }
       ]
     }
