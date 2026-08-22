@@ -1,6 +1,16 @@
 {
-  "date": "2026-08-21",
+  "date": "2026-08-22",
   "games": [
+    {
+      "home": "키움",
+      "away": "KIA",
+      "homeId": "kiwoom",
+      "awayId": "kia",
+      "stadium": "고척",
+      "time": "18:00",
+      "homeSP": "안우진",
+      "awaySP": "올러"
+    },
     {
       "home": "두산",
       "away": "롯데",
@@ -8,8 +18,8 @@
       "awayId": "lotte",
       "stadium": "잠실",
       "time": "19:00",
-      "homeSP": "최승용",
-      "awaySP": "김진욱"
+      "homeSP": "곽빈",
+      "awaySP": "박세웅"
     },
     {
       "home": "SSG",
@@ -18,8 +28,8 @@
       "awayId": "kt",
       "stadium": "문학",
       "time": "19:00",
-      "homeSP": "김건우",
-      "awaySP": "배제성"
+      "homeSP": "아빌라",
+      "awaySP": "로건"
     },
     {
       "home": "NC",
@@ -28,8 +38,8 @@
       "awayId": "samsung",
       "stadium": "창원",
       "time": "19:00",
-      "homeSP": "토다",
-      "awaySP": "원태인"
+      "homeSP": "원종해",
+      "awaySP": "이승현"
     },
     {
       "home": "한화",
@@ -38,18 +48,8 @@
       "awayId": "lg",
       "stadium": "대전",
       "time": "19:00",
-      "homeSP": "짐머맨",
-      "awaySP": "송승기"
-    },
-    {
-      "home": "키움",
-      "away": "KIA",
-      "homeId": "kiwoom",
-      "awayId": "kia",
-      "stadium": "고척",
-      "time": "19:00",
-      "homeSP": "하영민",
-      "awaySP": "양현종"
+      "homeSP": "박준영",
+      "awaySP": "카라스코"
     }
   ]
 }
