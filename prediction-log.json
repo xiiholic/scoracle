@@ -141626,9 +141626,9 @@
             ],
             "narrative": "KIA의 상대전적 우위 (키움 홈 승률 35%). 팀 전력에서도 앞섬."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 3,
+          "actualAway": 1,
+          "hit": false
         },
         {
           "away": "롯데",
@@ -141839,9 +141839,9 @@
             ],
             "narrative": "삼성의 종합 전력 우세 (NC 47승54패 vs 삼성 63승43패). 박빙으로 이변 가능."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 6,
+          "actualAway": 8,
+          "hit": true
         },
         {
           "away": "LG",
