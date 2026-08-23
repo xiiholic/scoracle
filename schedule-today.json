@@ -1,5 +1,5 @@
 {
-  "date": "2026-08-22",
+  "date": "2026-08-23",
   "games": [
     {
       "home": "키움",
@@ -7,9 +7,9 @@
       "homeId": "kiwoom",
       "awayId": "kia",
       "stadium": "고척",
-      "time": "18:00",
-      "homeSP": "안우진",
-      "awaySP": "올러"
+      "time": "14:00",
+      "homeSP": "전준표",
+      "awaySP": "네일"
     },
     {
       "home": "두산",
@@ -38,8 +38,8 @@
       "awayId": "samsung",
       "stadium": "창원",
       "time": "19:00",
-      "homeSP": "원종해",
-      "awaySP": "이승현"
+      "homeSP": "라일리",
+      "awaySP": "페덱"
     },
     {
       "home": "한화",
