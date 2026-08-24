@@ -141988,9 +141988,9 @@
             ],
             "narrative": "KIA의 상대전적 우위 (키움 홈 승률 35%)."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 8,
+          "actualAway": 7,
+          "hit": false
         },
         {
           "away": "롯데",
@@ -142059,9 +142059,9 @@
             ],
             "narrative": "곽빈(ERA 3.93) vs 박세웅(4.93), 선발 대결에서 두산 우위."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 3,
+          "actualAway": 1,
+          "hit": true
         },
         {
           "away": "KT",
@@ -142130,9 +142130,9 @@
             ],
             "narrative": "KT의 종합 전력 우세 (SSG 45승63패 vs KT 63승41패). 박빙으로 이변 가능."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 1,
+          "actualAway": 3,
+          "hit": true
         },
         {
           "away": "삼성",
@@ -142201,9 +142201,9 @@
             ],
             "narrative": "삼성의 종합 전력 우세 (NC 48승55패 vs 삼성 64승44패). 박빙으로 이변 가능."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 1,
+          "actualAway": 2,
+          "hit": true
         },
         {
           "away": "LG",
@@ -142272,9 +142272,9 @@
             ],
             "narrative": "대전한화생명볼파크 홈 구장 효과가 한화에게 유리. 박빙으로 이변 가능."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 3,
+          "actualAway": 12,
+          "hit": false
         }
       ]
     }
