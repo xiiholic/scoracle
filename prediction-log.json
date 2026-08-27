@@ -142712,9 +142712,9 @@
             ],
             "narrative": "LG의 종합 전력 우세 (LG 62승50패 vs NC 48승57패)."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 8,
+          "actualAway": 0,
+          "hit": true
         },
         {
           "away": "한화",
@@ -142783,9 +142783,9 @@
             ],
             "narrative": "인천SSG랜더스필드 홈 구장 효과가 SSG에게 유리. 박빙으로 이변 가능."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 6,
+          "actualAway": 1,
+          "hit": true
         },
         {
           "away": "롯데",
@@ -142854,9 +142854,9 @@
             ],
             "narrative": "KIA의 종합 전력 우세 (기아 61승50패 vs 롯데 50승59패)."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 16,
+          "actualAway": 11,
+          "hit": true
         },
         {
           "away": "두산",
@@ -142925,9 +142925,9 @@
             ],
             "narrative": "KT의 종합 전력 우세 (KT 64승42패 vs 두산 59승50패). 박빙으로 이변 가능."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 5,
+          "actualAway": 4,
+          "hit": true
         },
         {
           "away": "삼성",
@@ -142996,9 +142996,9 @@
             ],
             "narrative": "키움은 개별 지표에서 열세이나 홈 어드밴티지 + 구장 효과로 우세. 박빙으로 이변 가능."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 2,
+          "actualAway": 12,
+          "hit": false
         }
       ]
     }
