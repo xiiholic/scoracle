@@ -143074,9 +143074,9 @@
             ],
             "narrative": "박시원(ERA 3.74) vs 토다(4.31), 선발 대결에서 LG 우위. 높은 확률 예측."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 3,
+          "actualAway": 13,
+          "hit": false
         },
         {
           "away": "한화",
@@ -143145,9 +143145,9 @@
             ],
             "narrative": "한화의 종합 시뮬레이션에서 소폭 우세. 박빙으로 이변 가능."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 13,
+          "actualAway": 6,
+          "hit": false
         },
         {
           "away": "롯데",
@@ -143287,9 +143287,9 @@
             ],
             "narrative": "고영표(ERA 3.33) vs 최승용(4.36), 선발 대결에서 KT 우위. 팀 전력에서도 앞섬."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 5,
+          "actualAway": 4,
+          "hit": true
         },
         {
           "away": "삼성",
@@ -143358,9 +143358,9 @@
             ],
             "narrative": "원태인(ERA 3.24)이 하영민(4.94) 대비 압도적 우위. 팀 전력에서도 앞섬."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 2,
+          "actualAway": 15,
+          "hit": true
         }
       ]
     }
