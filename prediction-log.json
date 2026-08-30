@@ -143798,9 +143798,9 @@
             ],
             "narrative": "두산의 상대전적 우위 (두산 홈 승률 59%)."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 7,
+          "actualAway": 2,
+          "hit": true
         },
         {
           "away": "KT",
@@ -143869,9 +143869,9 @@
             ],
             "narrative": "대구삼성라이온즈파크 홈 구장 효과가 삼성에게 유리."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 4,
+          "actualAway": 2,
+          "hit": true
         },
         {
           "away": "LG",
@@ -143940,9 +143940,9 @@
             ],
             "narrative": "사직야구장 홈 구장 효과가 롯데에게 유리. 박빙으로 이변 가능."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 3,
+          "actualAway": 8,
+          "hit": false
         },
         {
           "away": "SSG",
@@ -144011,9 +144011,9 @@
             ],
             "narrative": "올러(ERA 3.24) vs 아빌라(3.8), 선발 대결에서 KIA 우위."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 2,
+          "actualAway": 1,
+          "hit": true
         },
         {
           "away": "NC",
@@ -144082,9 +144082,9 @@
             ],
             "narrative": "한화의 상대전적 우위 (한화 홈 승률 60%). 높은 확률 예측."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 4,
+          "actualAway": 11,
+          "hit": false
         }
       ]
     }
