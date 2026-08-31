@@ -144160,9 +144160,9 @@
             ],
             "narrative": "최민석(ERA 3.29) vs 전준표(3.91), 선발 대결에서 두산 우위."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 15,
+          "actualAway": 1,
+          "hit": true
         },
         {
           "away": "KT",
@@ -144444,9 +144444,9 @@
             ],
             "narrative": "한화의 상대전적 우위 (한화 홈 승률 60%)."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 7,
+          "actualAway": 10,
+          "hit": false
         }
       ]
     }
