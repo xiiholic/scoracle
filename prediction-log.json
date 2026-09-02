@@ -144522,9 +144522,9 @@
             ],
             "narrative": "잭로그(ERA 2.81) vs 임찬규(3.85), 선발 대결에서 두산 우위. 박빙으로 이변 가능."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 1,
+          "actualAway": 3,
+          "hit": false
         },
         {
           "away": "롯데",
@@ -144593,9 +144593,9 @@
             ],
             "narrative": "삼성의 종합 전력 우세 (삼성 68승44패 vs 롯데 50승61패). 박빙으로 이변 가능."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 3,
+          "actualAway": 0,
+          "hit": true
         },
         {
           "away": "한화",
@@ -144664,9 +144664,9 @@
             ],
             "narrative": "KT의 종합 전력 우세 (KT 66승43패 vs 한화 49승62패). 박빙으로 이변 가능."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 6,
+          "actualAway": 1,
+          "hit": true
         },
         {
           "away": "KIA",
@@ -144735,9 +144735,9 @@
             ],
             "narrative": "KIA의 종합 전력 우세 (NC 51승58패 vs 기아 63승50패). 높은 확률 예측."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 7,
+          "actualAway": 2,
+          "hit": false
         },
         {
           "away": "SSG",
@@ -144806,9 +144806,9 @@
             ],
             "narrative": "SSG의 상대전적 우위 (키움 홈 승률 35%). 박빙으로 이변 가능."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 0,
+          "actualAway": 4,
+          "hit": true
         }
       ]
     }
