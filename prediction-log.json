@@ -144884,9 +144884,9 @@
             ],
             "narrative": "김윤식(ERA 3.74) vs 최승용(4.36), 선발 대결에서 LG 우위."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 1,
+          "actualAway": 5,
+          "hit": true
         },
         {
           "away": "롯데",
@@ -144955,9 +144955,9 @@
             ],
             "narrative": "최원태(ERA 3.82) vs 박세웅(4.93), 선발 대결에서 삼성 우위. 팀 전력에서도 앞섬."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 8,
+          "actualAway": 5,
+          "hit": true
         },
         {
           "away": "한화",
@@ -145026,9 +145026,9 @@
             ],
             "narrative": "KT의 종합 전력 우세 (KT 67승43패 vs 한화 49승63패)."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 9,
+          "actualAway": 6,
+          "hit": true
         },
         {
           "away": "KIA",
@@ -145097,9 +145097,9 @@
             ],
             "narrative": "시라카와(ERA 3.75) vs 토다(4.31), 선발 대결에서 KIA 우위."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 3,
+          "actualAway": 2,
+          "hit": false
         },
         {
           "away": "SSG",
@@ -145168,9 +145168,9 @@
             ],
             "narrative": "김건우(ERA 3.8) vs 하영민(4.94), 선발 대결에서 SSG 우위. 상대전적도 유리. 박빙으로 이변 가능."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 6,
+          "actualAway": 9,
+          "hit": true
         }
       ]
     }
