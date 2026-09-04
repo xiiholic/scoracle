@@ -1,55 +1,55 @@
 {
-  "date": "2026-09-03",
+  "date": "2026-09-04",
   "games": [
     {
-      "home": "두산",
-      "away": "LG",
-      "homeId": "doosan",
-      "awayId": "lg",
+      "home": "LG",
+      "away": "삼성",
+      "homeId": "lg",
+      "awayId": "samsung",
       "stadium": "잠실",
       "time": "18:30",
-      "homeSP": "곽빈",
-      "awaySP": "박시원"
+      "homeSP": "카라스코",
+      "awaySP": "페덱"
     },
     {
-      "home": "삼성",
-      "away": "롯데",
-      "homeId": "samsung",
-      "awayId": "lotte",
-      "stadium": "대구",
-      "time": "18:30",
-      "homeSP": "원태인",
-      "awaySP": "비슬리"
-    },
-    {
-      "home": "KT",
+      "home": "롯데",
       "away": "한화",
-      "homeId": "kt",
+      "homeId": "lotte",
       "awayId": "hanwha",
-      "stadium": "수원",
+      "stadium": "부산",
       "time": "18:30",
-      "homeSP": "고영표",
-      "awaySP": "왕옌청"
+      "homeSP": "김진욱",
+      "awaySP": "박준영"
     },
     {
-      "home": "NC",
-      "away": "KIA",
-      "homeId": "nc",
-      "awayId": "kia",
-      "stadium": "창원",
+      "home": "SSG",
+      "away": "두산",
+      "homeId": "ssg",
+      "awayId": "doosan",
+      "stadium": "문학",
       "time": "18:30",
-      "homeSP": "이재학",
-      "awaySP": "양현종"
+      "homeSP": "아빌라",
+      "awaySP": "박신지"
+    },
+    {
+      "home": "KIA",
+      "away": "KT",
+      "homeId": "kia",
+      "awayId": "kt",
+      "stadium": "광주",
+      "time": "18:30",
+      "homeSP": "올러",
+      "awaySP": "배제성"
     },
     {
       "home": "키움",
-      "away": "SSG",
+      "away": "NC",
       "homeId": "kiwoom",
-      "awayId": "ssg",
+      "awayId": "nc",
       "stadium": "고척",
       "time": "18:30",
-      "homeSP": "박준현",
-      "awaySP": "이로운"
+      "homeSP": "안우진",
+      "awaySP": "라일리"
     }
   ]
 }
