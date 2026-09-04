@@ -145246,9 +145246,9 @@
             ],
             "narrative": "LG의 종합 전력 우세 (두산 61승54패 vs LG 66승51패)."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 0,
+          "actualAway": 1,
+          "hit": true
         },
         {
           "away": "롯데",
@@ -145317,9 +145317,9 @@
             ],
             "narrative": "삼성의 종합 전력 우세 (삼성 70승44패 vs 롯데 50승63패)."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 2,
+          "actualAway": 3,
+          "hit": false
         },
         {
           "away": "한화",
@@ -145388,9 +145388,9 @@
             ],
             "narrative": "KT의 종합 전력 우세 (KT 68승43패 vs 한화 49승64패). 박빙으로 이변 가능."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 13,
+          "actualAway": 11,
+          "hit": true
         },
         {
           "away": "KIA",
@@ -145530,9 +145530,9 @@
             ],
             "narrative": "키움은 개별 지표에서 열세이나 홈 어드밴티지 + 구장 효과로 우세. 박빙으로 이변 가능."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 3,
+          "actualAway": 2,
+          "hit": true
         }
       ]
     }
