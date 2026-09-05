@@ -145897,6 +145897,368 @@
           "hit": false
         }
       ]
+    },
+    {
+      "date": "2026-09-05",
+      "predictedAt": "2026-09-05T09:57:03.645Z",
+      "version": "v9.6",
+      "games": [
+        {
+          "away": "삼성",
+          "home": "LG",
+          "stadium": "잠실",
+          "time": "17:00",
+          "awaySP": "이승현",
+          "homeSP": "톨허스트",
+          "predWinner": "LG",
+          "predHomePct": 60.1,
+          "predAwayPct": 39,
+          "avgHome": 7.1,
+          "avgAway": 5.4,
+          "confidence": "★★",
+          "factors": {
+            "homeRating": 56,
+            "awayRating": 55,
+            "homeSP": {
+              "name": "톨허스트",
+              "era": 4.428125,
+              "fip": 3.53,
+              "recentForm": 0.92
+            },
+            "awaySP": {
+              "name": "이승현",
+              "era": 4.3175,
+              "fip": 3.78,
+              "recentForm": 0.95
+            },
+            "homeRecord": "68승51패",
+            "awayRecord": "70승46패",
+            "h2hWinRate": 56,
+            "parkFactor": 0.9,
+            "parkName": "잠실야구장",
+            "homeMomentum": 0,
+            "awayMomentum": 0,
+            "topFactors": [
+              {
+                "key": "h2h",
+                "label": "상대전적",
+                "edge": "home",
+                "impact": 0.013,
+                "desc": "LG 홈 승률 56%"
+              },
+              {
+                "key": "park",
+                "label": "구장 효과",
+                "edge": "away",
+                "impact": 0.01,
+                "desc": "잠실야구장 투수 유리(0.9)"
+              },
+              {
+                "key": "sp",
+                "label": "선발투수",
+                "edge": "away",
+                "impact": 0.004,
+                "desc": "이승현(ERA 4.32) vs 톨허스트(4.43)"
+              },
+              {
+                "key": "rating",
+                "label": "팀 전력",
+                "edge": "home",
+                "impact": 0.002,
+                "desc": "LG 68승51패 vs 삼성 70승46패"
+              }
+            ],
+            "narrative": "LG의 상대전적 우위 (LG 홈 승률 56%)."
+          },
+          "actualHome": null,
+          "actualAway": null,
+          "hit": null
+        },
+        {
+          "away": "한화",
+          "home": "롯데",
+          "stadium": "부산",
+          "time": "17:00",
+          "awaySP": "황준서",
+          "homeSP": "나균안",
+          "predWinner": "한화",
+          "predHomePct": 44,
+          "predAwayPct": 54.9,
+          "avgHome": 5.3,
+          "avgAway": 6.5,
+          "confidence": "★",
+          "factors": {
+            "homeRating": 40,
+            "awayRating": 40,
+            "homeSP": {
+              "name": "나균안",
+              "era": 4.2375,
+              "fip": 3.62,
+              "recentForm": 0.95
+            },
+            "awaySP": {
+              "name": "황준서",
+              "era": 3.875,
+              "fip": 3.55,
+              "recentForm": 1
+            },
+            "homeRecord": "51승64패",
+            "awayRecord": "50승65패",
+            "h2hWinRate": 38,
+            "parkFactor": 1.1,
+            "parkName": "사직야구장",
+            "homeMomentum": 0,
+            "awayMomentum": 0,
+            "topFactors": [
+              {
+                "key": "h2h",
+                "label": "상대전적",
+                "edge": "away",
+                "impact": 0.025,
+                "desc": "롯데 홈 승률 38%"
+              },
+              {
+                "key": "sp",
+                "label": "선발투수",
+                "edge": "away",
+                "impact": 0.014,
+                "desc": "황준서(ERA 3.88) vs 나균안(4.24)"
+              },
+              {
+                "key": "park",
+                "label": "구장 효과",
+                "edge": "home",
+                "impact": 0.01,
+                "desc": "사직야구장 타자 유리(1.1)"
+              },
+              {
+                "key": "momentum",
+                "label": "최근 폼",
+                "edge": "home",
+                "impact": 0,
+                "desc": "롯데 ? / 한화 ?"
+              }
+            ],
+            "narrative": "한화의 상대전적 우위 (롯데 홈 승률 38%). 박빙으로 이변 가능."
+          },
+          "actualHome": null,
+          "actualAway": null,
+          "hit": null
+        },
+        {
+          "away": "두산",
+          "home": "SSG",
+          "stadium": "문학",
+          "time": "17:00",
+          "awaySP": "최민석",
+          "homeSP": "김민준",
+          "predWinner": "SSG",
+          "predHomePct": 53.7,
+          "predAwayPct": 45.3,
+          "avgHome": 4.6,
+          "avgAway": 4.3,
+          "confidence": "★",
+          "factors": {
+            "homeRating": 42,
+            "awayRating": 40,
+            "homeSP": {
+              "name": "김민준",
+              "era": 3.8,
+              "fip": 3.51,
+              "recentForm": 1
+            },
+            "awaySP": {
+              "name": "최민석",
+              "era": 3.27,
+              "fip": 3.6,
+              "recentForm": 1.08
+            },
+            "homeRecord": "51승66패",
+            "awayRecord": "61승56패",
+            "h2hWinRate": 60,
+            "parkFactor": 1.08,
+            "parkName": "인천SSG랜더스필드",
+            "homeMomentum": 0,
+            "awayMomentum": 0,
+            "topFactors": [
+              {
+                "key": "sp",
+                "label": "선발투수",
+                "edge": "away",
+                "impact": 0.021,
+                "desc": "최민석(ERA 3.27) vs 김민준(3.8)"
+              },
+              {
+                "key": "h2h",
+                "label": "상대전적",
+                "edge": "home",
+                "impact": 0.02,
+                "desc": "SSG 홈 승률 60%"
+              },
+              {
+                "key": "park",
+                "label": "구장 효과",
+                "edge": "home",
+                "impact": 0.008,
+                "desc": "인천SSG랜더스필드 타자 유리(1.08)"
+              },
+              {
+                "key": "rating",
+                "label": "팀 전력",
+                "edge": "home",
+                "impact": 0.004,
+                "desc": "SSG 51승66패 vs 두산 61승56패"
+              }
+            ],
+            "narrative": "SSG의 상대전적 우위 (SSG 홈 승률 60%). 박빙으로 이변 가능."
+          },
+          "actualHome": null,
+          "actualAway": null,
+          "hit": null
+        },
+        {
+          "away": "KT",
+          "home": "KIA",
+          "stadium": "광주",
+          "time": "17:00",
+          "awaySP": "로건",
+          "homeSP": "양현종",
+          "predWinner": "KIA",
+          "predHomePct": 58.9,
+          "predAwayPct": 40.2,
+          "avgHome": 8,
+          "avgAway": 6.5,
+          "confidence": "★★",
+          "factors": {
+            "homeRating": 50,
+            "awayRating": 54,
+            "homeSP": {
+              "name": "양현종",
+              "era": 5.06,
+              "fip": 3.9,
+              "recentForm": 1
+            },
+            "awaySP": {
+              "name": "로건",
+              "era": 3.78125,
+              "fip": 3.51,
+              "recentForm": 1
+            },
+            "homeRecord": "64승52패",
+            "awayRecord": "69승44패",
+            "h2hWinRate": 50,
+            "parkFactor": 1.06,
+            "parkName": "광주기아챔피언스필드",
+            "homeMomentum": 0,
+            "awayMomentum": 0,
+            "topFactors": [
+              {
+                "key": "sp",
+                "label": "선발투수",
+                "edge": "away",
+                "impact": 0.051,
+                "desc": "로건(ERA 3.78) vs 양현종(5.06)"
+              },
+              {
+                "key": "rating",
+                "label": "팀 전력",
+                "edge": "away",
+                "impact": 0.008,
+                "desc": "기아 64승52패 vs KT 69승44패"
+              },
+              {
+                "key": "park",
+                "label": "구장 효과",
+                "edge": "home",
+                "impact": 0.006,
+                "desc": "광주기아챔피언스필드 타자 유리(1.06)"
+              },
+              {
+                "key": "momentum",
+                "label": "최근 폼",
+                "edge": "home",
+                "impact": 0,
+                "desc": "기아 ? / KT ?"
+              }
+            ],
+            "narrative": "광주기아챔피언스필드 홈 구장 효과가 KIA에게 유리. 다만 KT 선발투수가 우위."
+          },
+          "actualHome": null,
+          "actualAway": null,
+          "hit": null
+        },
+        {
+          "away": "NC",
+          "home": "키움",
+          "stadium": "고척",
+          "time": "17:00",
+          "awaySP": "이재학",
+          "homeSP": "전준표",
+          "predWinner": "키움",
+          "predHomePct": 55.1,
+          "predAwayPct": 43.8,
+          "avgHome": 4.8,
+          "avgAway": 4.1,
+          "confidence": "★★",
+          "factors": {
+            "homeRating": 40,
+            "awayRating": 43,
+            "homeSP": {
+              "name": "전준표",
+              "era": 3.9125,
+              "fip": 3.54,
+              "recentForm": 1
+            },
+            "awaySP": {
+              "name": "이재학",
+              "era": 3.809375,
+              "fip": 3.52,
+              "recentForm": 1
+            },
+            "homeRecord": "43승79패",
+            "awayRecord": "54승58패",
+            "h2hWinRate": 38,
+            "parkFactor": 0.92,
+            "parkName": "고척스카이돔",
+            "homeMomentum": 0,
+            "awayMomentum": 0,
+            "topFactors": [
+              {
+                "key": "h2h",
+                "label": "상대전적",
+                "edge": "away",
+                "impact": 0.025,
+                "desc": "키움 홈 승률 38%"
+              },
+              {
+                "key": "park",
+                "label": "구장 효과",
+                "edge": "away",
+                "impact": 0.008,
+                "desc": "고척스카이돔 투수 유리(0.92)"
+              },
+              {
+                "key": "rating",
+                "label": "팀 전력",
+                "edge": "away",
+                "impact": 0.006,
+                "desc": "키움 43승79패 vs NC 54승58패"
+              },
+              {
+                "key": "sp",
+                "label": "선발투수",
+                "edge": "away",
+                "impact": 0.004,
+                "desc": "이재학(ERA 3.81) vs 전준표(3.91)"
+              }
+            ],
+            "narrative": "키움은 개별 지표에서 열세이나 홈 어드밴티지 + 구장 효과로 우세."
+          },
+          "actualHome": null,
+          "actualAway": null,
+          "hit": null
+        }
+      ]
     }
   ]
 }
