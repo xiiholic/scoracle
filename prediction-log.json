@@ -145608,9 +145608,9 @@
             ],
             "narrative": "LG의 상대전적 우위 (LG 홈 승률 56%)."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 4,
+          "actualAway": 3,
+          "hit": true
         },
         {
           "away": "한화",
@@ -145679,9 +145679,9 @@
             ],
             "narrative": "한화의 상대전적 우위 (롯데 홈 승률 38%)."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 4,
+          "actualAway": 14,
+          "hit": true
         },
         {
           "away": "두산",
@@ -145750,9 +145750,9 @@
             ],
             "narrative": "SSG의 상대전적 우위 (SSG 홈 승률 60%). 박빙으로 이변 가능."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 4,
+          "actualAway": 0,
+          "hit": true
         },
         {
           "away": "KT",
@@ -145821,9 +145821,9 @@
             ],
             "narrative": "올러(ERA 3.24) vs 배제성(3.78), 선발 대결에서 KIA 우위. 높은 확률 예측."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 4,
+          "actualAway": 3,
+          "hit": true
         },
         {
           "away": "NC",
@@ -145892,9 +145892,9 @@
             ],
             "narrative": "키움은 개별 지표에서 열세이나 홈 어드밴티지 + 구장 효과로 우세. 박빙으로 이변 가능."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 1,
+          "actualAway": 6,
+          "hit": false
         }
       ]
     }
