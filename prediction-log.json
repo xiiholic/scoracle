@@ -145970,9 +145970,9 @@
             ],
             "narrative": "LG의 상대전적 우위 (LG 홈 승률 56%)."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 3,
+          "actualAway": 4,
+          "hit": false
         },
         {
           "away": "한화",
@@ -146041,9 +146041,9 @@
             ],
             "narrative": "한화의 상대전적 우위 (롯데 홈 승률 38%). 박빙으로 이변 가능."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 6,
+          "actualAway": 11,
+          "hit": true
         },
         {
           "away": "두산",
@@ -146112,9 +146112,9 @@
             ],
             "narrative": "SSG의 상대전적 우위 (SSG 홈 승률 60%). 박빙으로 이변 가능."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 3,
+          "actualAway": 2,
+          "hit": true
         },
         {
           "away": "KT",
@@ -146183,9 +146183,9 @@
             ],
             "narrative": "광주기아챔피언스필드 홈 구장 효과가 KIA에게 유리. 다만 KT 선발투수가 우위."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 6,
+          "actualAway": 3,
+          "hit": true
         },
         {
           "away": "NC",
@@ -146254,9 +146254,9 @@
             ],
             "narrative": "키움은 개별 지표에서 열세이나 홈 어드밴티지 + 구장 효과로 우세."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 1,
+          "actualAway": 2,
+          "hit": false
         }
       ]
     }
