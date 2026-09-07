@@ -146332,9 +146332,9 @@
             ],
             "narrative": "키움은 개별 지표에서 열세이나 홈 어드밴티지 + 구장 효과로 우세."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 4,
+          "actualAway": 2,
+          "hit": true
         },
         {
           "away": "삼성",
@@ -146403,9 +146403,9 @@
             ],
             "narrative": "LG의 상대전적 우위 (LG 홈 승률 56%). 박빙으로 이변 가능."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 4,
+          "actualAway": 10,
+          "hit": false
         },
         {
           "away": "한화",
@@ -146474,9 +146474,9 @@
             ],
             "narrative": "로드리게스(ERA 3.8) vs 화이트(4.06), 선발 대결에서 롯데 우위."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 2,
+          "actualAway": 8,
+          "hit": false
         },
         {
           "away": "두산",
@@ -146545,9 +146545,9 @@
             ],
             "narrative": "SSG의 상대전적 우위 (SSG 홈 승률 60%). 다만 두산 선발투수가 우위. 박빙으로 이변 가능."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 9,
+          "actualAway": 16,
+          "hit": false
         },
         {
           "away": "KT",
@@ -146616,9 +146616,9 @@
             ],
             "narrative": "광주기아챔피언스필드 홈 구장 효과가 KIA에게 유리. 높은 확률 예측."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 8,
+          "actualAway": 3,
+          "hit": true
         }
       ]
     }
