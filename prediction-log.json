@@ -146694,9 +146694,9 @@
             ],
             "narrative": "박시원(ERA 3.74) vs 하영민(4.94), 선발 대결에서 LG 우위. 상대전적도 유리."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 3,
+          "actualAway": 8,
+          "hit": false
         },
         {
           "away": "KIA",
@@ -146765,9 +146765,9 @@
             ],
             "narrative": "시라카와(ERA 3.75) vs 최원태(3.82), 선발 대결에서 KIA 우위."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 6,
+          "actualAway": 4,
+          "hit": false
         },
         {
           "away": "SSG",
@@ -146836,9 +146836,9 @@
             ],
             "narrative": "소형준(ERA 3.32) vs 김건우(3.8), 선발 대결에서 KT 우위."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 3,
+          "actualAway": 1,
+          "hit": true
         },
         {
           "away": "롯데",
@@ -146907,9 +146907,9 @@
             ],
             "narrative": "창원NC파크 홈 구장 효과가 롯데에게 유리. 박빙으로 이변 가능."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 3,
+          "actualAway": 6,
+          "hit": true
         },
         {
           "away": "두산",
@@ -146978,9 +146978,9 @@
             ],
             "narrative": "류현진(ERA 3.67) vs 최승용(4.36), 선발 대결에서 한화 우위. 박빙으로 이변 가능."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 6,
+          "actualAway": 1,
+          "hit": true
         }
       ]
     }
