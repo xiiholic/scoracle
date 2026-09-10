@@ -147056,9 +147056,9 @@
             ],
             "narrative": "SSG의 상대전적 우위 (두산 홈 승률 40%). 박빙으로 이변 가능."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 0,
+          "actualAway": 1,
+          "hit": true
         },
         {
           "away": "KT",
@@ -147127,9 +147127,9 @@
             ],
             "narrative": "KT의 종합 시뮬레이션에서 소폭 우세. 박빙으로 이변 가능."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 0,
+          "actualAway": 2,
+          "hit": true
         },
         {
           "away": "NC",
@@ -147198,9 +147198,9 @@
             ],
             "narrative": "KIA의 종합 전력 우세 (기아 66승53패 vs NC 55승60패)."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 4,
+          "actualAway": 5,
+          "hit": false
         },
         {
           "away": "LG",
@@ -147269,9 +147269,9 @@
             ],
             "narrative": "LG의 종합 전력 우세 (한화 53승65패 vs LG 68승54패). 박빙으로 이변 가능."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 19,
+          "actualAway": 3,
+          "hit": false
         }
       ]
     }
