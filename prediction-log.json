@@ -147347,9 +147347,9 @@
             ],
             "narrative": "두산의 상대전적 우위 (두산 홈 승률 59%). 박빙으로 이변 가능."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 5,
+          "actualAway": 0,
+          "hit": true
         },
         {
           "away": "KT",
@@ -147418,9 +147418,9 @@
             ],
             "narrative": "KT의 종합 전력 우세 (롯데 52승66패 vs KT 71승46패)."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 3,
+          "actualAway": 16,
+          "hit": true
         },
         {
           "away": "한화",
@@ -147489,9 +147489,9 @@
             ],
             "narrative": "한화의 종합 전력 우세 (SSG 53승68패 vs 한화 54승65패)."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 4,
+          "actualAway": 3,
+          "hit": false
         },
         {
           "away": "NC",
@@ -147560,9 +147560,9 @@
             ],
             "narrative": "올러(ERA 3.24) vs 라일리(3.81), 선발 대결에서 KIA 우위. 높은 확률 예측."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 1,
+          "actualAway": 2,
+          "hit": false
         }
       ]
     }
