@@ -147638,9 +147638,9 @@
             ],
             "narrative": "삼성의 종합 전력 우세 (삼성 73승47패 vs 키움 45승81패). 상대전적도 유리."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 6,
+          "actualAway": 4,
+          "hit": true
         },
         {
           "away": "KT",
@@ -147709,9 +147709,9 @@
             ],
             "narrative": "KT의 종합 전력 우세 (롯데 52승67패 vs KT 72승46패)."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 1,
+          "actualAway": 7,
+          "hit": true
         },
         {
           "away": "SSG",
@@ -147780,9 +147780,9 @@
             ],
             "narrative": "KIA의 종합 전력 우세 (기아 66승55패 vs SSG 54승68패). 다만 SSG 선발투수가 우위."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 5,
+          "actualAway": 2,
+          "hit": true
         },
         {
           "away": "NC",
@@ -147851,9 +147851,9 @@
             ],
             "narrative": "한화의 상대전적 우위 (한화 홈 승률 60%). 높은 확률 예측."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 7,
+          "actualAway": 9,
+          "hit": false
         }
       ]
     }
