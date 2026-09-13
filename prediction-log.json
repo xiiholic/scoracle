@@ -147929,9 +147929,9 @@
             ],
             "narrative": "잭로그(ERA 2.81) vs 구창모(3.82), 선발 대결에서 두산 우위. 높은 확률 예측."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 9,
+          "actualAway": 10,
+          "hit": false
         },
         {
           "away": "LG",
@@ -148000,9 +148000,9 @@
             ],
             "narrative": "삼성의 종합 전력 우세 (삼성 74승47패 vs LG 68승55패)."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 3,
+          "actualAway": 4,
+          "hit": false
         },
         {
           "away": "KIA",
@@ -148071,9 +148071,9 @@
             ],
             "narrative": "네일(ERA 3.66) vs 대니엘(3.78), 선발 대결에서 KIA 우위. 박빙으로 이변 가능."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 6,
+          "actualAway": 2,
+          "hit": false
         },
         {
           "away": "롯데",
@@ -148142,9 +148142,9 @@
             ],
             "narrative": "키움의 최근 상승세가 핵심 (키움 ? / 롯데 ?). 박빙으로 이변 가능."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 0,
+          "actualAway": 8,
+          "hit": false
         }
       ]
     }
