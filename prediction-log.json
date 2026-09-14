@@ -148220,9 +148220,9 @@
             ],
             "narrative": "최민석(ERA 3.37) vs 토다(4.4), 선발 대결에서 두산 우위. 높은 확률 예측."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 9,
+          "actualAway": 2,
+          "hit": true
         },
         {
           "away": "LG",
@@ -148291,9 +148291,9 @@
             ],
             "narrative": "LG의 상대전적 우위 (삼성 홈 승률 44%). 박빙으로 이변 가능."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 5,
+          "actualAway": 13,
+          "hit": true
         },
         {
           "away": "한화",
@@ -148362,9 +148362,9 @@
             ],
             "narrative": "시라카와(ERA 3.75) vs 화이트(4.06), 선발 대결에서 KIA 우위."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 9,
+          "actualAway": 2,
+          "hit": true
         },
         {
           "away": "롯데",
@@ -148433,9 +148433,9 @@
             ],
             "narrative": "소형준(ERA 3.32) vs 나균안(4.24), 선발 대결에서 KT 우위. 팀 전력에서도 앞섬. 높은 확률 예측."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 5,
+          "actualAway": 2,
+          "hit": true
         }
       ]
     }
