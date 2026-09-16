@@ -148511,9 +148511,9 @@
             ],
             "narrative": "원태인(ERA 3.24)이 박세웅(4.93) 대비 압도적 우위."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 7,
+          "actualAway": 3,
+          "hit": true
         },
         {
           "away": "KIA",
@@ -148582,9 +148582,9 @@
             ],
             "narrative": "KIA의 종합 전력 우세 (SSG 54승69패 vs 기아 68승56패). 박빙으로 이변 가능."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 6,
+          "actualAway": 3,
+          "hit": false
         },
         {
           "away": "LG",
@@ -148653,9 +148653,9 @@
             ],
             "narrative": "LG의 상대전적 우위 (NC 홈 승률 41%)."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 2,
+          "actualAway": 3,
+          "hit": true
         },
         {
           "away": "KT",
@@ -148724,9 +148724,9 @@
             ],
             "narrative": "한화의 상대전적 우위 (한화 홈 승률 53%). 박빙으로 이변 가능."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 3,
+          "actualAway": 13,
+          "hit": false
         }
       ]
     }
