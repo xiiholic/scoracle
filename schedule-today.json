@@ -1,25 +1,25 @@
 {
-  "date": "2026-09-15",
+  "date": "2026-09-16",
   "games": [
     {
-      "home": "삼성",
-      "away": "롯데",
-      "homeId": "samsung",
-      "awayId": "lotte",
-      "stadium": "대구",
+      "home": "두산",
+      "away": "삼성",
+      "homeId": "doosan",
+      "awayId": "samsung",
+      "stadium": "잠실",
       "time": "18:30",
-      "homeSP": "원태인",
-      "awaySP": "박세웅"
+      "homeSP": "벤자민",
+      "awaySP": "페덱"
     },
     {
-      "home": "SSG",
-      "away": "KIA",
-      "homeId": "ssg",
-      "awayId": "kia",
-      "stadium": "문학",
+      "home": "롯데",
+      "away": "SSG",
+      "homeId": "lotte",
+      "awayId": "ssg",
+      "stadium": "부산",
       "time": "18:30",
-      "homeSP": "김민준",
-      "awaySP": "김태형"
+      "homeSP": "비슬리",
+      "awaySP": "아빌라"
     },
     {
       "home": "NC",
@@ -28,8 +28,8 @@
       "awayId": "lg",
       "stadium": "창원",
       "time": "18:30",
-      "homeSP": "송명기",
-      "awaySP": "카라스코"
+      "homeSP": "클레빈저",
+      "awaySP": "박시원"
     },
     {
       "home": "한화",
@@ -38,8 +38,8 @@
       "awayId": "kt",
       "stadium": "대전",
       "time": "18:30",
-      "homeSP": "왕옌청",
-      "awaySP": "고영표"
+      "homeSP": "류현진",
+      "awaySP": "배제성"
     }
   ]
 }
