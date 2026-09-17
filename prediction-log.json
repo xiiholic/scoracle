@@ -149020,6 +149020,155 @@
           "hit": false
         }
       ]
+    },
+    {
+      "date": "2026-09-17",
+      "predictedAt": "2026-09-17T10:57:31.440Z",
+      "version": "v9.6",
+      "games": [
+        {
+          "away": "키움",
+          "home": "KIA",
+          "stadium": "광주",
+          "time": "18:30",
+          "awaySP": "안우진",
+          "homeSP": "올러",
+          "predWinner": "KIA",
+          "predHomePct": 65.1,
+          "predAwayPct": 33.2,
+          "avgHome": 5.7,
+          "avgAway": 3.4,
+          "confidence": "★★★",
+          "factors": {
+            "homeRating": 48,
+            "awayRating": 40,
+            "homeSP": {
+              "name": "올러",
+              "era": 3.2412500000000004,
+              "fip": 3.14,
+              "recentForm": 1.12
+            },
+            "awaySP": {
+              "name": "안우진",
+              "era": 3.9125,
+              "fip": 3.54,
+              "recentForm": 1
+            },
+            "homeRecord": "68승57패",
+            "awayRecord": "45승83패",
+            "h2hWinRate": 65,
+            "parkFactor": 1.06,
+            "parkName": "광주기아챔피언스필드",
+            "homeMomentum": 0,
+            "awayMomentum": 0,
+            "topFactors": [
+              {
+                "key": "h2h",
+                "label": "상대전적",
+                "edge": "home",
+                "impact": 0.029,
+                "desc": "기아 홈 승률 65%"
+              },
+              {
+                "key": "sp",
+                "label": "선발투수",
+                "edge": "home",
+                "impact": 0.027,
+                "desc": "올러(ERA 3.24) vs 안우진(3.91)"
+              },
+              {
+                "key": "rating",
+                "label": "팀 전력",
+                "edge": "home",
+                "impact": 0.016,
+                "desc": "기아 68승57패 vs 키움 45승83패"
+              },
+              {
+                "key": "park",
+                "label": "구장 효과",
+                "edge": "home",
+                "impact": 0.006,
+                "desc": "광주기아챔피언스필드 타자 유리(1.06)"
+              }
+            ],
+            "narrative": "KIA의 상대전적 우위 (기아 홈 승률 65%). 선발 올러(ERA 3.24)도 유리. 높은 확률 예측."
+          },
+          "actualHome": null,
+          "actualAway": null,
+          "hit": null
+        },
+        {
+          "away": "SSG",
+          "home": "NC",
+          "stadium": "창원",
+          "time": "18:30",
+          "awaySP": "이로운",
+          "homeSP": "라일리",
+          "predWinner": "SSG",
+          "predHomePct": 45.6,
+          "predAwayPct": 50.9,
+          "avgHome": 3.2,
+          "avgAway": 3.8,
+          "confidence": "★",
+          "factors": {
+            "homeRating": 40,
+            "awayRating": 41,
+            "homeSP": {
+              "name": "라일리",
+              "era": 3.809375,
+              "fip": 3.52,
+              "recentForm": 1
+            },
+            "awaySP": {
+              "name": "이로운",
+              "era": 3.8,
+              "fip": 3.51,
+              "recentForm": 1
+            },
+            "homeRecord": "59승63패",
+            "awayRecord": "56승69패",
+            "h2hWinRate": 44,
+            "parkFactor": 0.98,
+            "parkName": "창원NC파크",
+            "homeMomentum": 0,
+            "awayMomentum": 0,
+            "topFactors": [
+              {
+                "key": "h2h",
+                "label": "상대전적",
+                "edge": "away",
+                "impact": 0.012,
+                "desc": "NC 홈 승률 44%"
+              },
+              {
+                "key": "park",
+                "label": "구장 효과",
+                "edge": "away",
+                "impact": 0.002,
+                "desc": "창원NC파크 중립(0.98)"
+              },
+              {
+                "key": "rating",
+                "label": "팀 전력",
+                "edge": "away",
+                "impact": 0.002,
+                "desc": "NC 59승63패 vs SSG 56승69패"
+              },
+              {
+                "key": "sp",
+                "label": "선발투수",
+                "edge": "away",
+                "impact": 0,
+                "desc": "이로운(ERA 3.8) vs 라일리(3.81)"
+              }
+            ],
+            "narrative": "SSG의 상대전적 우위 (NC 홈 승률 44%). 박빙으로 이변 가능."
+          },
+          "actualHome": null,
+          "actualAway": null,
+          "hit": null
+        }
+      ]
     }
   ]
 }
