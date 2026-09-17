@@ -148802,9 +148802,9 @@
             ],
             "narrative": "벤자민(ERA 3.8) vs 페덱(3.81), 선발 대결에서 두산 우위. 박빙으로 이변 가능."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 3,
+          "actualAway": 1,
+          "hit": true
         },
         {
           "away": "SSG",
@@ -148873,9 +148873,9 @@
             ],
             "narrative": "SSG의 상대전적 우위 (롯데 홈 승률 41%). 박빙으로 이변 가능."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 1,
+          "actualAway": 4,
+          "hit": true
         },
         {
           "away": "LG",
@@ -148944,9 +148944,9 @@
             ],
             "narrative": "LG의 종합 전력 우세 (NC 59승62패 vs LG 71승55패)."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 2,
+          "actualAway": 9,
+          "hit": true
         },
         {
           "away": "KT",
@@ -149015,9 +149015,9 @@
             ],
             "narrative": "KT의 종합 전력 우세 (한화 54승69패 vs KT 76승46패). 박빙으로 이변 가능."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 4,
+          "actualAway": 4,
+          "hit": false
         }
       ]
     }
