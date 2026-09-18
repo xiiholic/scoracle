@@ -149093,9 +149093,9 @@
             ],
             "narrative": "KIA의 상대전적 우위 (기아 홈 승률 65%). 선발 올러(ERA 3.24)도 유리. 높은 확률 예측."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 2,
+          "actualAway": 0,
+          "hit": true
         },
         {
           "away": "SSG",
@@ -149164,9 +149164,9 @@
             ],
             "narrative": "SSG의 상대전적 우위 (NC 홈 승률 44%). 박빙으로 이변 가능."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 1,
+          "actualAway": 2,
+          "hit": true
         }
       ]
     }
