@@ -149242,9 +149242,9 @@
             ],
             "narrative": "잭로그(ERA 2.81) vs 알칸타라(4), 선발 대결에서 두산 우위."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 6,
+          "actualAway": 6,
+          "hit": false
         },
         {
           "away": "NC",
@@ -149313,9 +149313,9 @@
             ],
             "narrative": "사직야구장 홈 구장 효과가 롯데에게 유리."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 9,
+          "actualAway": 6,
+          "hit": true
         },
         {
           "away": "LG",
@@ -149384,9 +149384,9 @@
             ],
             "narrative": "로건(ERA 3.78) vs 톨허스트(4.29), 선발 대결에서 KT 우위."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 1,
+          "actualAway": 12,
+          "hit": false
         },
         {
           "away": "삼성",
@@ -149455,9 +149455,9 @@
             ],
             "narrative": "한화의 상대전적 우위 (한화 홈 승률 55%)."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 4,
+          "actualAway": 10,
+          "hit": false
         }
       ]
     }
