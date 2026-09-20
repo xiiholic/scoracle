@@ -149533,9 +149533,9 @@
             ],
             "narrative": "LG의 종합 전력 우세 (LG 73승55패 vs 한화 54승70패)."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 2,
+          "actualAway": 1,
+          "hit": true
         },
         {
           "away": "삼성",
@@ -149604,9 +149604,9 @@
             ],
             "narrative": "사직야구장 홈 구장 효과가 롯데에게 유리. 박빙으로 이변 가능."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 5,
+          "actualAway": 3,
+          "hit": true
         },
         {
           "away": "두산",
@@ -149675,9 +149675,9 @@
             ],
             "narrative": "KT의 종합 전력 우세 (KT 76승47패 vs 두산 65승60패)."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 15,
+          "actualAway": 3,
+          "hit": true
         },
         {
           "away": "KIA",
@@ -149746,9 +149746,9 @@
             ],
             "narrative": "KIA의 종합 전력 우세 (NC 59승65패 vs 기아 69승57패). 높은 확률 예측."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 1,
+          "actualAway": 5,
+          "hit": true
         }
       ]
     }
