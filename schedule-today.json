@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-19",
+  "date": "2026-09-20",
   "games": [
     {
       "home": "LG",
@@ -7,9 +7,9 @@
       "homeId": "lg",
       "awayId": "hanwha",
       "stadium": "잠실",
-      "time": "17:00",
-      "homeSP": "임찬규",
-      "awaySP": "화이트"
+      "time": "14:00",
+      "homeSP": "카라스코",
+      "awaySP": "황준서"
     },
     {
       "home": "롯데",
@@ -17,9 +17,19 @@
       "homeId": "lotte",
       "awayId": "samsung",
       "stadium": "부산",
-      "time": "17:00",
-      "homeSP": "나균안",
-      "awaySP": "최원태"
+      "time": "14:00",
+      "homeSP": "김태균",
+      "awaySP": "원태인"
+    },
+    {
+      "home": "SSG",
+      "away": "키움",
+      "homeId": "ssg",
+      "awayId": "kiwoom",
+      "stadium": "문학",
+      "time": "14:00",
+      "homeSP": "김건우",
+      "awaySP": "하영민"
     },
     {
       "home": "KT",
@@ -27,9 +37,9 @@
       "homeId": "kt",
       "awayId": "doosan",
       "stadium": "수원",
-      "time": "17:00",
-      "homeSP": "대니엘",
-      "awaySP": "최승용"
+      "time": "14:00",
+      "homeSP": "고영표",
+      "awaySP": "박신지"
     },
     {
       "home": "NC",
@@ -37,9 +47,9 @@
       "homeId": "nc",
       "awayId": "kia",
       "stadium": "창원",
-      "time": "17:00",
-      "homeSP": "구창모",
-      "awaySP": "네일"
+      "time": "14:00",
+      "homeSP": "토다",
+      "awaySP": "시라카와"
     }
   ]
 }
