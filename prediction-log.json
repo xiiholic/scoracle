@@ -149824,9 +149824,9 @@
             ],
             "narrative": "LG의 종합 전력 우세 (LG 75승55패 vs 한화 54승72패)."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 4,
+          "actualAway": 3,
+          "hit": true
         },
         {
           "away": "삼성",
@@ -149895,9 +149895,9 @@
             ],
             "narrative": "사직야구장 홈 구장 효과가 롯데에게 유리. 박빙으로 이변 가능."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 13,
+          "actualAway": 6,
+          "hit": true
         },
         {
           "away": "키움",
@@ -149966,9 +149966,9 @@
             ],
             "narrative": "김건우(ERA 3.8) vs 하영민(4.94), 선발 대결에서 SSG 우위. 상대전적도 유리."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 10,
+          "actualAway": 5,
+          "hit": true
         },
         {
           "away": "두산",
@@ -150037,9 +150037,9 @@
             ],
             "narrative": "KT의 종합 전력 우세 (KT 78승47패 vs 두산 65승62패). 높은 확률 예측."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 9,
+          "actualAway": 8,
+          "hit": true
         },
         {
           "away": "KIA",
@@ -150108,9 +150108,9 @@
             ],
             "narrative": "시라카와(ERA 3.75) vs 토다(4.49), 선발 대결에서 KIA 우위."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 6,
+          "actualAway": 8,
+          "hit": true
         }
       ]
     }
