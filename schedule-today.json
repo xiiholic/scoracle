@@ -1,4 +1,45 @@
 {
-  "date": "2026-09-21",
-  "games": []
+  "date": "2026-09-22",
+  "games": [
+    {
+      "home": "삼성",
+      "away": "NC",
+      "homeId": "samsung",
+      "awayId": "nc",
+      "stadium": "대구",
+      "time": "18:30",
+      "homeSP": "페덱",
+      "awaySP": "클레빈저"
+    },
+    {
+      "home": "SSG",
+      "away": "KT",
+      "homeId": "ssg",
+      "awayId": "kt",
+      "stadium": "문학",
+      "time": "18:30",
+      "homeSP": "아빌라",
+      "awaySP": "배제성"
+    },
+    {
+      "home": "한화",
+      "away": "롯데",
+      "homeId": "hanwha",
+      "awayId": "lotte",
+      "stadium": "대전",
+      "time": "18:30",
+      "homeSP": "류현진",
+      "awaySP": "비슬리"
+    },
+    {
+      "home": "키움",
+      "away": "두산",
+      "homeId": "kiwoom",
+      "awayId": "doosan",
+      "stadium": "고척",
+      "time": "18:30",
+      "homeSP": "전준표",
+      "awaySP": "벤자민"
+    }
+  ]
 }
