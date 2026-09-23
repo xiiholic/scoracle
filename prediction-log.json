@@ -150186,9 +150186,9 @@
             ],
             "narrative": "삼성의 종합 전력 우세 (삼성 76승52패 vs NC 59승67패)."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 8,
+          "actualAway": 5,
+          "hit": true
         },
         {
           "away": "KT",
@@ -150257,9 +150257,9 @@
             ],
             "narrative": "KT의 종합 전력 우세 (SSG 58승69패 vs KT 78승47패)."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 2,
+          "actualAway": 8,
+          "hit": true
         },
         {
           "away": "롯데",
@@ -150328,9 +150328,9 @@
             ],
             "narrative": "한화의 상대전적 우위 (한화 홈 승률 63%)."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 0,
+          "actualAway": 7,
+          "hit": false
         },
         {
           "away": "두산",
@@ -150399,9 +150399,9 @@
             ],
             "narrative": "두산의 상대전적 우위 (키움 홈 승률 41%). 박빙으로 이변 가능."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 3,
+          "actualAway": 5,
+          "hit": true
         }
       ]
     }
