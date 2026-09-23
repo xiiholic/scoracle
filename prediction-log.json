@@ -150404,6 +150404,226 @@
           "hit": true
         }
       ]
+    },
+    {
+      "date": "2026-09-23",
+      "predictedAt": "2026-09-23T10:46:08.602Z",
+      "version": "v9.6",
+      "games": [
+        {
+          "away": "KIA",
+          "home": "두산",
+          "stadium": "잠실",
+          "time": "18:30",
+          "awaySP": "올러",
+          "homeSP": "잭로그",
+          "predWinner": "KIA",
+          "predHomePct": 45.5,
+          "predAwayPct": 52.6,
+          "avgHome": 3.5,
+          "avgAway": 4.3,
+          "confidence": "★",
+          "factors": {
+            "homeRating": 40,
+            "awayRating": 50,
+            "homeSP": {
+              "name": "잭로그",
+              "era": 2.81,
+              "fip": 3.52,
+              "recentForm": 1.1
+            },
+            "awaySP": {
+              "name": "올러",
+              "era": 3.2412500000000004,
+              "fip": 3.14,
+              "recentForm": 1.12
+            },
+            "homeRecord": "66승62패",
+            "awayRecord": "71승57패",
+            "h2hWinRate": 47,
+            "parkFactor": 0.9,
+            "parkName": "잠실야구장",
+            "homeMomentum": 0,
+            "awayMomentum": 0,
+            "topFactors": [
+              {
+                "key": "rating",
+                "label": "팀 전력",
+                "edge": "away",
+                "impact": 0.02,
+                "desc": "두산 66승62패 vs 기아 71승57패"
+              },
+              {
+                "key": "sp",
+                "label": "선발투수",
+                "edge": "home",
+                "impact": 0.017,
+                "desc": "잭로그(ERA 2.81) vs 올러(3.24)"
+              },
+              {
+                "key": "park",
+                "label": "구장 효과",
+                "edge": "away",
+                "impact": 0.01,
+                "desc": "잠실야구장 투수 유리(0.9)"
+              },
+              {
+                "key": "h2h",
+                "label": "상대전적",
+                "edge": "away",
+                "impact": 0.007,
+                "desc": "두산 홈 승률 47%"
+              }
+            ],
+            "narrative": "KIA의 종합 전력 우세 (두산 66승62패 vs 기아 71승57패). 박빙으로 이변 가능."
+          },
+          "actualHome": null,
+          "actualAway": null,
+          "hit": null
+        },
+        {
+          "away": "NC",
+          "home": "KT",
+          "stadium": "수원",
+          "time": "18:30",
+          "awaySP": "라일리",
+          "homeSP": "로건",
+          "predWinner": "KT",
+          "predHomePct": 66,
+          "predAwayPct": 32.7,
+          "avgHome": 6.1,
+          "avgAway": 3.6,
+          "confidence": "★★★",
+          "factors": {
+            "homeRating": 58,
+            "awayRating": 40,
+            "homeSP": {
+              "name": "로건",
+              "era": 3.78125,
+              "fip": 3.51,
+              "recentForm": 1
+            },
+            "awaySP": {
+              "name": "라일리",
+              "era": 3.809375,
+              "fip": 3.52,
+              "recentForm": 1
+            },
+            "homeRecord": "79승47패",
+            "awayRecord": "59승68패",
+            "h2hWinRate": 53,
+            "parkFactor": 1.05,
+            "parkName": "수원KT위즈파크",
+            "homeMomentum": 0,
+            "awayMomentum": 0,
+            "topFactors": [
+              {
+                "key": "rating",
+                "label": "팀 전력",
+                "edge": "home",
+                "impact": 0.036,
+                "desc": "KT 79승47패 vs NC 59승68패"
+              },
+              {
+                "key": "h2h",
+                "label": "상대전적",
+                "edge": "home",
+                "impact": 0.006,
+                "desc": "KT 홈 승률 53%"
+              },
+              {
+                "key": "park",
+                "label": "구장 효과",
+                "edge": "home",
+                "impact": 0.005,
+                "desc": "수원KT위즈파크 타자 유리(1.05)"
+              },
+              {
+                "key": "sp",
+                "label": "선발투수",
+                "edge": "home",
+                "impact": 0.001,
+                "desc": "로건(ERA 3.78) vs 라일리(3.81)"
+              }
+            ],
+            "narrative": "KT의 종합 전력 우세 (KT 79승47패 vs NC 59승68패). 높은 확률 예측."
+          },
+          "actualHome": null,
+          "actualAway": null,
+          "hit": null
+        },
+        {
+          "away": "롯데",
+          "home": "한화",
+          "stadium": "대전",
+          "time": "18:30",
+          "awaySP": "박세웅",
+          "homeSP": "박준영",
+          "predWinner": "한화",
+          "predHomePct": 63.3,
+          "predAwayPct": 35.2,
+          "avgHome": 5.9,
+          "avgAway": 3.8,
+          "confidence": "★★",
+          "factors": {
+            "homeRating": 40,
+            "awayRating": 42,
+            "homeSP": {
+              "name": "박준영",
+              "era": 3.875,
+              "fip": 3.55,
+              "recentForm": 1
+            },
+            "awaySP": {
+              "name": "박세웅",
+              "era": 4.93,
+              "fip": 3.45,
+              "recentForm": 0.95
+            },
+            "homeRecord": "54승73패",
+            "awayRecord": "57승71패",
+            "h2hWinRate": 63,
+            "parkFactor": 1.02,
+            "parkName": "대전한화생명볼파크",
+            "homeMomentum": 0,
+            "awayMomentum": 0,
+            "topFactors": [
+              {
+                "key": "sp",
+                "label": "선발투수",
+                "edge": "home",
+                "impact": 0.042,
+                "desc": "박준영(ERA 3.88) vs 박세웅(4.93)"
+              },
+              {
+                "key": "h2h",
+                "label": "상대전적",
+                "edge": "home",
+                "impact": 0.025,
+                "desc": "한화 홈 승률 63%"
+              },
+              {
+                "key": "rating",
+                "label": "팀 전력",
+                "edge": "away",
+                "impact": 0.004,
+                "desc": "한화 54승73패 vs 롯데 57승71패"
+              },
+              {
+                "key": "park",
+                "label": "구장 효과",
+                "edge": "home",
+                "impact": 0.002,
+                "desc": "대전한화생명볼파크 중립(1.02)"
+              }
+            ],
+            "narrative": "박준영(ERA 3.88) vs 박세웅(4.93), 선발 대결에서 한화 우위. 상대전적도 유리."
+          },
+          "actualHome": null,
+          "actualAway": null,
+          "hit": null
+        }
+      ]
     }
   ]
 }
