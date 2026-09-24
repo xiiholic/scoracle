@@ -150477,9 +150477,9 @@
             ],
             "narrative": "KIA의 종합 전력 우세 (두산 66승62패 vs 기아 71승57패). 박빙으로 이변 가능."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 3,
+          "actualAway": 2,
+          "hit": false
         },
         {
           "away": "NC",
@@ -150548,9 +150548,9 @@
             ],
             "narrative": "KT의 종합 전력 우세 (KT 79승47패 vs NC 59승68패). 높은 확률 예측."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 3,
+          "actualAway": 10,
+          "hit": false
         },
         {
           "away": "롯데",
@@ -150619,9 +150619,9 @@
             ],
             "narrative": "박준영(ERA 3.88) vs 박세웅(4.93), 선발 대결에서 한화 우위. 상대전적도 유리."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 5,
+          "actualAway": 9,
+          "hit": false
         }
       ]
     }
