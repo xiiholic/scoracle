@@ -150697,9 +150697,9 @@
             ],
             "narrative": "LG의 상대전적 우위 (LG 홈 승률 63%)."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 4,
+          "actualAway": 6,
+          "hit": false
         },
         {
           "away": "삼성",
@@ -150768,9 +150768,9 @@
             ],
             "narrative": "삼성의 종합 전력 우세 (SSG 58승70패 vs 삼성 77승52패)."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 4,
+          "actualAway": 5,
+          "hit": true
         },
         {
           "away": "NC",
@@ -150839,9 +150839,9 @@
             ],
             "narrative": "KT의 종합 전력 우세 (KT 80승48패 vs NC 60승69패). 높은 확률 예측."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 3,
+          "actualAway": 2,
+          "hit": true
         }
       ]
     }
