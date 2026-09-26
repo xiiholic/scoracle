@@ -151059,9 +151059,9 @@
             ],
             "narrative": "한화의 상대전적 우위 (NC 홈 승률 40%)."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 8,
+          "actualAway": 7,
+          "hit": false
         }
       ]
     }
