@@ -151137,9 +151137,9 @@
             ],
             "narrative": "네일(ERA 3.66) vs 임찬규(3.85), 선발 대결에서 KIA 우위."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 5,
+          "actualAway": 1,
+          "hit": true
         },
         {
           "away": "키움",
@@ -151208,9 +151208,9 @@
             ],
             "narrative": "KT의 종합 전력 우세 (KT 80승48패 vs 키움 45승86패). 상대전적도 유리. 높은 확률 예측."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 1,
+          "actualAway": 10,
+          "hit": false
         },
         {
           "away": "한화",
@@ -151279,9 +151279,9 @@
             ],
             "narrative": "한화의 상대전적 우위 (NC 홈 승률 40%). 박빙으로 이변 가능."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 3,
+          "actualAway": 2,
+          "hit": false
         }
       ]
     }
