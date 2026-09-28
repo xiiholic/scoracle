@@ -151357,9 +151357,9 @@
             ],
             "narrative": "KT의 종합 전력 우세 (두산 67승62패 vs KT 80승49패). 박빙으로 이변 가능."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 6,
+          "actualAway": 12,
+          "hit": true
         },
         {
           "away": "한화",
@@ -151428,9 +151428,9 @@
             ],
             "narrative": "한화의 상대전적 우위 (롯데 홈 승률 38%). 박빙으로 이변 가능."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 2,
+          "actualAway": 6,
+          "hit": true
         },
         {
           "away": "LG",
@@ -151570,9 +151570,9 @@
             ],
             "narrative": "클레빈저(ERA 3.81) vs 하영민(4.94), 선발 대결에서 NC 우위. 상대전적도 유리."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 4,
+          "actualAway": 8,
+          "hit": false
         }
       ]
     }
