@@ -151648,9 +151648,9 @@
             ],
             "narrative": "두산의 종합 전력 우세 (두산 67승63패 vs NC 62승70패). 박빙으로 이변 가능."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 5,
+          "actualAway": 2,
+          "hit": true
         },
         {
           "away": "한화",
@@ -151719,9 +151719,9 @@
             ],
             "narrative": "한화의 상대전적 우위 (삼성 홈 승률 46%). 박빙으로 이변 가능."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 10,
+          "actualAway": 5,
+          "hit": false
         },
         {
           "away": "키움",
@@ -151790,9 +151790,9 @@
             ],
             "narrative": "롯데의 상대전적 우위 (롯데 홈 승률 59%). 다만 키움 선발투수가 우위. 박빙으로 이변 가능."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 4,
+          "actualAway": 2,
+          "hit": true
         },
         {
           "away": "LG",
@@ -151861,9 +151861,9 @@
             ],
             "narrative": "LG의 종합 전력 우세 (SSG 58승71패 vs LG 75승57패). 박빙으로 이변 가능."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 7,
+          "actualAway": 1,
+          "hit": false
         },
         {
           "away": "KT",
@@ -151932,9 +151932,9 @@
             ],
             "narrative": "올러(ERA 3.24) vs 로건(3.78), 선발 대결에서 KIA 우위."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 5,
+          "actualAway": 8,
+          "hit": false
         }
       ]
     }
