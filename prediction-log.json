@@ -152010,9 +152010,9 @@
             ],
             "narrative": "잭로그(ERA 2.81) vs 라일리(3.81), 선발 대결에서 두산 우위. 박빙으로 이변 가능."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 6,
+          "actualAway": 5,
+          "hit": true
         },
         {
           "away": "한화",
@@ -152081,9 +152081,9 @@
             ],
             "narrative": "삼성의 종합 전력 우세 (삼성 79승52패 vs 한화 55승77패)."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 6,
+          "actualAway": 2,
+          "hit": true
         },
         {
           "away": "키움",
@@ -152152,9 +152152,9 @@
             ],
             "narrative": "롯데의 상대전적 우위 (롯데 홈 승률 59%). 박빙으로 이변 가능."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 8,
+          "actualAway": 6,
+          "hit": true
         },
         {
           "away": "LG",
@@ -152223,9 +152223,9 @@
             ],
             "narrative": "LG의 종합 전력 우세 (SSG 59승71패 vs LG 75승58패). 박빙으로 이변 가능."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 4,
+          "actualAway": 3,
+          "hit": false
         },
         {
           "away": "KT",
@@ -152294,9 +152294,9 @@
             ],
             "narrative": "광주기아챔피언스필드 홈 구장 효과가 KIA에게 유리."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 2,
+          "actualAway": 3,
+          "hit": false
         }
       ]
     }
