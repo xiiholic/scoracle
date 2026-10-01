@@ -1,5 +1,5 @@
 {
-  "date": "2026-09-30",
+  "date": "2026-10-01",
   "games": [
     {
       "home": "두산",
@@ -8,8 +8,8 @@
       "awayId": "nc",
       "stadium": "잠실",
       "time": "18:30",
-      "homeSP": "잭로그",
-      "awaySP": "라일리"
+      "homeSP": "최민석",
+      "awaySP": "송명기"
     },
     {
       "home": "삼성",
@@ -18,18 +18,8 @@
       "awayId": "hanwha",
       "stadium": "대구",
       "time": "18:30",
-      "homeSP": "후라도",
-      "awaySP": "화이트"
-    },
-    {
-      "home": "롯데",
-      "away": "키움",
-      "homeId": "lotte",
-      "awayId": "kiwoom",
-      "stadium": "부산",
-      "time": "18:30",
-      "homeSP": "로드리게스",
-      "awaySP": "김성진"
+      "homeSP": "원태인",
+      "awaySP": "황준서"
     },
     {
       "home": "SSG",
@@ -38,8 +28,8 @@
       "awayId": "lg",
       "stadium": "문학",
       "time": "18:30",
-      "homeSP": "김건우",
-      "awaySP": "박시원"
+      "homeSP": "김민준",
+      "awaySP": "임찬규"
     },
     {
       "home": "KIA",
@@ -48,8 +38,8 @@
       "awayId": "kt",
       "stadium": "광주",
       "time": "18:30",
-      "homeSP": "김태형",
-      "awaySP": "대니엘"
+      "homeSP": "양현종",
+      "awaySP": "소형준"
     }
   ]
 }
