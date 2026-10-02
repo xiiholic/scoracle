@@ -152372,9 +152372,9 @@
             ],
             "narrative": "잠실야구장 홈 구장 효과가 NC에게 유리. 박빙으로 이변 가능."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 9,
+          "actualAway": 7,
+          "hit": false
         },
         {
           "away": "한화",
@@ -152443,9 +152443,9 @@
             ],
             "narrative": "삼성의 종합 전력 우세 (삼성 80승52패 vs 한화 55승78패). 선발 원태인(ERA 3.24)도 유리. 박빙으로 이변 가능."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 3,
+          "actualAway": 2,
+          "hit": true
         },
         {
           "away": "LG",
@@ -152514,9 +152514,9 @@
             ],
             "narrative": "LG의 종합 전력 우세 (SSG 60승71패 vs LG 75승59패). 박빙으로 이변 가능."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 6,
+          "actualAway": 5,
+          "hit": false
         },
         {
           "away": "KT",
@@ -152585,9 +152585,9 @@
             ],
             "narrative": "소형준(ERA 3.32)이 양현종(5.06) 대비 압도적 우위. 박빙으로 이변 가능."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 5,
+          "actualAway": 7,
+          "hit": true
         }
       ]
     }
