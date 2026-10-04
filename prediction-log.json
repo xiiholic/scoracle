@@ -152663,9 +152663,9 @@
             ],
             "narrative": "잠실야구장 홈 구장 효과가 KIA에게 유리. 박빙으로 이변 가능."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 4,
+          "actualAway": 5,
+          "hit": true
         },
         {
           "away": "두산",
@@ -152734,9 +152734,9 @@
             ],
             "narrative": "삼성의 종합 전력 우세 (삼성 82승52패 vs 두산 70승64패)."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 6,
+          "actualAway": 4,
+          "hit": true
         },
         {
           "away": "롯데",
@@ -152805,9 +152805,9 @@
             ],
             "narrative": "KT의 종합 전력 우세 (KT 85승49패 vs 롯데 61승73패). 높은 확률 예측."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 5,
+          "actualAway": 0,
+          "hit": true
         },
         {
           "away": "SSG",
@@ -152876,9 +152876,9 @@
             ],
             "narrative": "SSG의 상대전적 우위 (NC 홈 승률 44%). 박빙으로 이변 가능."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 13,
+          "actualAway": 1,
+          "hit": false
         },
         {
           "away": "키움",
@@ -152947,9 +152947,9 @@
             ],
             "narrative": "이상규(ERA 3.88) vs 하영민(4.94), 선발 대결에서 한화 우위. 상대전적도 유리. 높은 확률 예측."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 2,
+          "actualAway": 7,
+          "hit": false
         }
       ]
     }
