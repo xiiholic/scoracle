@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-03",
+  "date": "2026-10-04",
   "games": [
     {
       "home": "LG",
@@ -8,8 +8,8 @@
       "awayId": "kia",
       "stadium": "잠실",
       "time": "14:00",
-      "homeSP": "카라스코",
-      "awaySP": "네일"
+      "homeSP": "김윤식",
+      "awaySP": "시라카와"
     },
     {
       "home": "삼성",
@@ -18,18 +18,8 @@
       "awayId": "doosan",
       "stadium": "대구",
       "time": "14:00",
-      "homeSP": "최원태",
-      "awaySP": "최승용"
-    },
-    {
-      "home": "KT",
-      "away": "롯데",
-      "homeId": "kt",
-      "awayId": "lotte",
-      "stadium": "수원",
-      "time": "14:00",
-      "homeSP": "고영표",
-      "awaySP": "비슬리"
+      "homeSP": "이승현",
+      "awaySP": "벤자민"
     },
     {
       "home": "NC",
@@ -38,8 +28,8 @@
       "awayId": "ssg",
       "stadium": "창원",
       "time": "14:00",
-      "homeSP": "구창모",
-      "awaySP": "이로운"
+      "homeSP": "클레빈저",
+      "awaySP": "최민준"
     },
     {
       "home": "한화",
@@ -48,8 +38,18 @@
       "awayId": "kiwoom",
       "stadium": "대전",
       "time": "14:00",
-      "homeSP": "이상규",
-      "awaySP": "하영민"
+      "homeSP": "박준영",
+      "awaySP": "안우진"
+    },
+    {
+      "home": "KT",
+      "away": "롯데",
+      "homeId": "kt",
+      "awayId": "lotte",
+      "stadium": "수원",
+      "time": "17:00",
+      "homeSP": "배제성",
+      "awaySP": "나균안"
     }
   ]
 }
