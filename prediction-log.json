@@ -153025,9 +153025,9 @@
             ],
             "narrative": "LG의 상대전적 우위 (LG 홈 승률 60%)."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 5,
+          "actualAway": 6,
+          "hit": false
         },
         {
           "away": "두산",
@@ -153096,9 +153096,9 @@
             ],
             "narrative": "삼성의 종합 전력 우세 (삼성 82승53패 vs 두산 71승64패)."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 0,
+          "actualAway": 12,
+          "hit": false
         },
         {
           "away": "SSG",
@@ -153167,9 +153167,9 @@
             ],
             "narrative": "클레빈저(ERA 3.81) vs 최민준(4.19), 선발 대결에서 NC 우위."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 2,
+          "actualAway": 6,
+          "hit": false
         },
         {
           "away": "키움",
@@ -153238,9 +153238,9 @@
             ],
             "narrative": "한화의 상대전적 우위 (한화 홈 승률 71%). 높은 확률 예측."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 3,
+          "actualAway": 9,
+          "hit": false
         },
         {
           "away": "롯데",
@@ -153309,9 +153309,9 @@
             ],
             "narrative": "KT의 종합 전력 우세 (KT 85승49패 vs 롯데 61승73패). 높은 확률 예측."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 2,
+          "actualAway": 2,
+          "hit": false
         }
       ]
     }
