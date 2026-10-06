@@ -153387,9 +153387,9 @@
             ],
             "narrative": "올러(ERA 3.24) vs 톨허스트(4.29), 선발 대결에서 KIA 우위."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 4,
+          "actualAway": 6,
+          "hit": true
         },
         {
           "away": "두산",
@@ -153458,9 +153458,9 @@
             ],
             "narrative": "삼성의 종합 전력 우세 (삼성 82승54패 vs 두산 72승64패). 다만 두산 선발투수가 우위."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 5,
+          "actualAway": 7,
+          "hit": false
         },
         {
           "away": "롯데",
@@ -153529,9 +153529,9 @@
             ],
             "narrative": "KT의 종합 전력 우세 (KT 86승49패 vs 롯데 61승74패). 선발 로건(ERA 3.78)도 유리."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 9,
+          "actualAway": 0,
+          "hit": true
         },
         {
           "away": "SSG",
@@ -153600,9 +153600,9 @@
             ],
             "narrative": "NC은 개별 지표에서 열세이나 홈 어드밴티지 + 구장 효과로 우세. 박빙으로 이변 가능."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 0,
+          "actualAway": 9,
+          "hit": false
         },
         {
           "away": "키움",
@@ -153671,9 +153671,9 @@
             ],
             "narrative": "한화의 상대전적 우위 (한화 홈 승률 71%)."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 13,
+          "actualAway": 6,
+          "hit": true
         }
       ]
     }
