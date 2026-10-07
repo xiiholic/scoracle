@@ -1,55 +1,55 @@
 {
-  "date": "2026-10-06",
+  "date": "2026-10-07",
   "games": [
     {
       "home": "LG",
-      "away": "NC",
+      "away": "두산",
       "homeId": "lg",
-      "awayId": "nc",
+      "awayId": "doosan",
       "stadium": "잠실",
       "time": "18:30",
-      "homeSP": "박시원",
-      "awaySP": "최성영"
+      "homeSP": "임찬규",
+      "awaySP": "최민석"
     },
     {
       "home": "롯데",
-      "away": "두산",
+      "away": "KIA",
       "homeId": "lotte",
-      "awayId": "doosan",
+      "awayId": "kia",
       "stadium": "부산",
       "time": "18:30",
-      "homeSP": "박세웅",
-      "awaySP": "곽빈"
+      "homeSP": "김태균",
+      "awaySP": "양현종"
     },
     {
-      "home": "KIA",
+      "home": "SSG",
+      "away": "NC",
+      "homeId": "ssg",
+      "awayId": "nc",
+      "stadium": "문학",
+      "time": "18:30",
+      "homeSP": "김민준",
+      "awaySP": "송명기"
+    },
+    {
+      "home": "KT",
       "away": "삼성",
-      "homeId": "kia",
+      "homeId": "kt",
       "awayId": "samsung",
-      "stadium": "광주",
+      "stadium": "수원",
       "time": "18:30",
-      "homeSP": "김태형",
-      "awaySP": "장찬희"
-    },
-    {
-      "home": "한화",
-      "away": "SSG",
-      "homeId": "hanwha",
-      "awayId": "ssg",
-      "stadium": "대전",
-      "time": "18:30",
-      "homeSP": "화이트",
-      "awaySP": "김건우"
+      "homeSP": "소형준",
+      "awaySP": "원태인"
     },
     {
       "home": "키움",
-      "away": "KT",
+      "away": "한화",
       "homeId": "kiwoom",
-      "awayId": "kt",
+      "awayId": "hanwha",
       "stadium": "고척",
       "time": "18:30",
-      "homeSP": "박준현",
-      "awaySP": "대니엘"
+      "homeSP": "김성진",
+      "awaySP": "정우주"
     }
   ]
 }
