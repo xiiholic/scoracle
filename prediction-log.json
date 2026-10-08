@@ -154111,9 +154111,9 @@
             ],
             "narrative": "LG의 상대전적 우위 (LG 홈 승률 59%)."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 7,
+          "actualAway": 5,
+          "hit": true
         },
         {
           "away": "KIA",
@@ -154182,9 +154182,9 @@
             ],
             "narrative": "KIA의 종합 전력 우세 (롯데 61승75패 vs 기아 75승62패). 다만 롯데 선발투수가 우위. 박빙으로 이변 가능."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 4,
+          "actualAway": 12,
+          "hit": true
         },
         {
           "away": "NC",
@@ -154253,9 +154253,9 @@
             ],
             "narrative": "NC의 종합 시뮬레이션에서 소폭 우세. 박빙으로 이변 가능."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 6,
+          "actualAway": 3,
+          "hit": false
         },
         {
           "away": "삼성",
@@ -154324,9 +154324,9 @@
             ],
             "narrative": "KT의 종합 전력 우세 (KT 87승49패 vs 삼성 83승54패). 박빙으로 이변 가능."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 9,
+          "actualAway": 3,
+          "hit": true
         },
         {
           "away": "한화",
@@ -154395,9 +154395,9 @@
             ],
             "narrative": "한화의 상대전적 우위 (키움 홈 승률 29%). 박빙으로 이변 가능."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 5,
+          "actualAway": 3,
+          "hit": false
         }
       ]
     }
