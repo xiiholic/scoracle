@@ -1,4 +1,35 @@
 {
-  "date": "2026-10-08",
-  "games": []
+  "date": "2026-10-09",
+  "games": [
+    {
+      "home": "롯데",
+      "away": "LG",
+      "homeId": "lotte",
+      "awayId": "lg",
+      "stadium": "부산",
+      "time": "14:00",
+      "homeSP": "김한결",
+      "awaySP": "카라스코"
+    },
+    {
+      "home": "SSG",
+      "away": "삼성",
+      "homeId": "ssg",
+      "awayId": "samsung",
+      "stadium": "문학",
+      "time": "14:00",
+      "homeSP": "이로운",
+      "awaySP": "사토시"
+    },
+    {
+      "home": "NC",
+      "away": "KIA",
+      "homeId": "nc",
+      "awayId": "kia",
+      "stadium": "창원",
+      "time": "14:00",
+      "homeSP": "구창모",
+      "awaySP": "네일"
+    }
+  ]
 }
