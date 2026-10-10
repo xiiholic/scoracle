@@ -154473,9 +154473,9 @@
             ],
             "narrative": "LG의 상대전적 우위 (롯데 홈 승률 38%)."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 9,
+          "actualAway": 1,
+          "hit": false
         },
         {
           "away": "삼성",
@@ -154544,9 +154544,9 @@
             ],
             "narrative": "삼성의 종합 전력 우세 (SSG 65승73패 vs 삼성 83승56패). 박빙으로 이변 가능."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 3,
+          "actualAway": 1,
+          "hit": false
         },
         {
           "away": "KIA",
@@ -154615,9 +154615,9 @@
             ],
             "narrative": "KIA의 종합 전력 우세 (NC 63승78패 vs 기아 77승62패)."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 2,
+          "actualAway": 7,
+          "hit": true
         }
       ]
     }
