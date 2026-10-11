@@ -154840,6 +154840,155 @@
           "hit": false
         }
       ]
+    },
+    {
+      "date": "2026-10-11",
+      "predictedAt": "2026-10-11T12:06:17.136Z",
+      "version": "v9.6",
+      "games": [
+        {
+          "away": "KT",
+          "home": "삼성",
+          "stadium": "대구",
+          "time": "14:00",
+          "awaySP": "고영표",
+          "homeSP": "후라도",
+          "predWinner": "삼성",
+          "predHomePct": 62.2,
+          "predAwayPct": 37.5,
+          "avgHome": 9,
+          "avgAway": 6.6,
+          "confidence": "★★",
+          "factors": {
+            "homeRating": 51,
+            "awayRating": 62,
+            "homeSP": {
+              "name": "후라도",
+              "era": 3.82625,
+              "fip": 3.52,
+              "recentForm": 1.15
+            },
+            "awaySP": {
+              "name": "고영표",
+              "era": 3.33125,
+              "fip": 3.19,
+              "recentForm": 1
+            },
+            "homeRecord": "83승57패",
+            "awayRecord": "89승49패",
+            "h2hWinRate": 50,
+            "parkFactor": 1.12,
+            "parkName": "대구삼성라이온즈파크",
+            "homeMomentum": 0,
+            "awayMomentum": 0,
+            "topFactors": [
+              {
+                "key": "rating",
+                "label": "팀 전력",
+                "edge": "away",
+                "impact": 0.022,
+                "desc": "삼성 83승57패 vs KT 89승49패"
+              },
+              {
+                "key": "sp",
+                "label": "선발투수",
+                "edge": "away",
+                "impact": 0.02,
+                "desc": "고영표(ERA 3.33) vs 후라도(3.83)"
+              },
+              {
+                "key": "park",
+                "label": "구장 효과",
+                "edge": "home",
+                "impact": 0.012,
+                "desc": "대구삼성라이온즈파크 타자 유리(1.12)"
+              },
+              {
+                "key": "momentum",
+                "label": "최근 폼",
+                "edge": "home",
+                "impact": 0,
+                "desc": "삼성 ? / KT ?"
+              }
+            ],
+            "narrative": "대구삼성라이온즈파크 홈 구장 효과가 삼성에게 유리."
+          },
+          "actualHome": null,
+          "actualAway": null,
+          "hit": null
+        },
+        {
+          "away": "롯데",
+          "home": "KIA",
+          "stadium": "광주",
+          "time": "14:00",
+          "awaySP": "김진욱",
+          "homeSP": "올러",
+          "predWinner": "KIA",
+          "predHomePct": 75.9,
+          "predAwayPct": 23.8,
+          "avgHome": 10.2,
+          "avgAway": 4.3,
+          "confidence": "★★★",
+          "factors": {
+            "homeRating": 49,
+            "awayRating": 40,
+            "homeSP": {
+              "name": "올러",
+              "era": 3.2412500000000004,
+              "fip": 3.14,
+              "recentForm": 1.12
+            },
+            "awaySP": {
+              "name": "김진욱",
+              "era": 4.3875,
+              "fip": 3.63,
+              "recentForm": 0.92
+            },
+            "homeRecord": "78승63패",
+            "awayRecord": "63승77패",
+            "h2hWinRate": 56,
+            "parkFactor": 1.06,
+            "parkName": "광주기아챔피언스필드",
+            "homeMomentum": 0,
+            "awayMomentum": 0,
+            "topFactors": [
+              {
+                "key": "sp",
+                "label": "선발투수",
+                "edge": "home",
+                "impact": 0.046,
+                "desc": "올러(ERA 3.24) vs 김진욱(4.39)"
+              },
+              {
+                "key": "rating",
+                "label": "팀 전력",
+                "edge": "home",
+                "impact": 0.018,
+                "desc": "기아 78승63패 vs 롯데 63승77패"
+              },
+              {
+                "key": "h2h",
+                "label": "상대전적",
+                "edge": "home",
+                "impact": 0.013,
+                "desc": "기아 홈 승률 56%"
+              },
+              {
+                "key": "park",
+                "label": "구장 효과",
+                "edge": "home",
+                "impact": 0.006,
+                "desc": "광주기아챔피언스필드 타자 유리(1.06)"
+              }
+            ],
+            "narrative": "올러(ERA 3.24) vs 김진욱(4.39), 선발 대결에서 KIA 우위. 높은 확률 예측."
+          },
+          "actualHome": null,
+          "actualAway": null,
+          "hit": null
+        }
+      ]
     }
   ]
 }
