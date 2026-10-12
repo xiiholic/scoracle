@@ -154913,9 +154913,9 @@
             ],
             "narrative": "대구삼성라이온즈파크 홈 구장 효과가 삼성에게 유리."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 3,
+          "actualAway": 12,
+          "hit": false
         },
         {
           "away": "롯데",
@@ -154984,9 +154984,9 @@
             ],
             "narrative": "올러(ERA 3.24) vs 김진욱(4.39), 선발 대결에서 KIA 우위. 높은 확률 예측."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 1,
+          "actualAway": 4,
+          "hit": false
         }
       ]
     }
