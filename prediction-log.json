@@ -155062,9 +155062,9 @@
             ],
             "narrative": "이용찬(ERA 3.8) vs 박세웅(4.93), 선발 대결에서 두산 우위. 박빙으로 이변 가능."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 4,
+          "actualAway": 7,
+          "hit": false
         },
         {
           "away": "KT",
@@ -155133,9 +155133,9 @@
             ],
             "narrative": "KT의 종합 전력 우세 (삼성 83승58패 vs KT 90승49패)."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 2,
+          "actualAway": 4,
+          "hit": true
         },
         {
           "away": "LG",
@@ -155204,9 +155204,9 @@
             ],
             "narrative": "임찬규(ERA 3.85) vs 양현종(5.06), 선발 대결에서 LG 우위. 박빙으로 이변 가능."
           },
-          "actualHome": null,
-          "actualAway": null,
-          "hit": null
+          "actualHome": 4,
+          "actualAway": 2,
+          "hit": false
         }
       ]
     }
